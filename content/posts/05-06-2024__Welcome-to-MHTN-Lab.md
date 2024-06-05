@@ -41,4 +41,4 @@ Thank you for gracing MHTN Lab with your presence. Together, let's embark on a v
 
 Adventurously yours,
 
-Miro,
+Miro
