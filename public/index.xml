@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MHTN Lab</title>
+    <link>/</link>
+    <description>Recent content on MHTN Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jun 2024 16:50:25 +0530</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to MHTN Lab!</title>
+      <link>/welcome-to-mhtn-lab/</link>
+      <pubDate>Wed, 05 Jun 2024 16:50:25 +0530</pubDate>
+      <guid>/welcome-to-mhtn-lab/</guid>
+      <description>Welcome to MHTN Lab! Welcome to MHTN Lab, your portal to my personal hobby!&#xA;About MHTN Lab Greetings and salutations! You&amp;rsquo;ve stumbled upon my personal enclave in the digital realm, MHTN Lab.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 06 Oct 2023 20:37:29 +0700</pubDate>
+      <guid>/about/</guid>
+      <description>Welcome to MHTN Lab. &amp;ldquo;You have stumbled upon my personal hobby.&amp;rdquo; I post what I&amp;rsquo;m learning about, what I want to learn about, and what I&amp;rsquo;m interested in.</description>
+    </item>
+  </channel>
+</rss>

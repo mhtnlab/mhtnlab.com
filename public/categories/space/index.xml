@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>space on MHTN Lab</title>
+    <link>/categories/space/</link>
+    <description>Recent content in space on MHTN Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Aug 2023 13:45:49 +0700</lastBuildDate>
+    <atom:link href="/categories/space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to MHTN Lab!</title>
+      <link>/posts/space-explorations-next-frontier/</link>
+      <pubDate>Tue, 15 Aug 2023 13:45:49 +0700</pubDate>
+      <guid>/posts/space-explorations-next-frontier/</guid>
+      <description>The dream of reaching Mars has captured the imagination of scientists, engineers, and space enthusiasts for decades. In recent years, this dream has transformed into a tangible goal, with various space agencies and private companies embarking on missions to make it a reality.</description>
+    </item>
+  </channel>
+</rss>
