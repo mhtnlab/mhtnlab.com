@@ -13,7 +13,7 @@ tags:
   - exploration 
   - technology
   - philosophy
-  - feature
+  - featured
 draft: false
 ---
 

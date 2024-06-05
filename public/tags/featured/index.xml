@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>explore on MHTN Lab</title>
-    <link>mhtnlab.com/categories/explore/</link>
-    <description>Recent content in explore on MHTN Lab</description>
+    <title>featured on MHTN Lab</title>
+    <link>mhtnlab.com/tags/featured/</link>
+    <description>Recent content in featured on MHTN Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Jun 2024 16:50:25 +0530</lastBuildDate>
-    <atom:link href="mhtnlab.com/categories/explore/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="mhtnlab.com/tags/featured/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to MHTN Lab!</title>
       <link>mhtnlab.com/posts/welcome-to-mhtn-lab/</link>

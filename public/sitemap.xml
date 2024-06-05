@@ -2,40 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>mhtnlab.com/categories/</loc>
     <lastmod>2024-06-05T16:50:25+05:30</lastmod>
   </url><url>
-    <loc>/tags/exploration/</loc>
+    <loc>mhtnlab.com/tags/exploration/</loc>
     <lastmod>2024-06-05T16:50:25+05:30</lastmod>
   </url><url>
-    <loc>/categories/explore/</loc>
+    <loc>mhtnlab.com/categories/explore/</loc>
     <lastmod>2024-06-05T16:50:25+05:30</lastmod>
   </url><url>
-    <loc>/tags/feature/</loc>
+    <loc>mhtnlab.com/tags/featured/</loc>
     <lastmod>2024-06-05T16:50:25+05:30</lastmod>
   </url><url>
-    <loc>/tags/learning/</loc>
+    <loc>mhtnlab.com/tags/learning/</loc>
     <lastmod>2024-06-05T16:50:25+05:30</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>mhtnlab.com/</loc>
     <lastmod>2024-06-05T16:50:25+05:30</lastmod>
   </url><url>
-    <loc>/tags/philosophy/</loc>
+    <loc>mhtnlab.com/tags/philosophy/</loc>
     <lastmod>2024-06-05T16:50:25+05:30</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>mhtnlab.com/posts/</loc>
     <lastmod>2024-06-05T16:50:25+05:30</lastmod>
   </url><url>
-    <loc>/tags/technology/</loc>
+    <loc>mhtnlab.com/tags/</loc>
     <lastmod>2024-06-05T16:50:25+05:30</lastmod>
   </url><url>
-    <loc>/categories/welcome/</loc>
+    <loc>mhtnlab.com/tags/technology/</loc>
     <lastmod>2024-06-05T16:50:25+05:30</lastmod>
   </url><url>
-    <loc>/welcome-to-mhtn-lab/</loc>
+    <loc>mhtnlab.com/categories/welcome/</loc>
     <lastmod>2024-06-05T16:50:25+05:30</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>mhtnlab.com/posts/welcome-to-mhtn-lab/</loc>
+    <lastmod>2024-06-05T16:50:25+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/about/</loc>
     <lastmod>2023-10-06T20:37:29+07:00</lastmod>
   </url>
 </urlset>

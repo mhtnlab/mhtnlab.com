@@ -1,15 +1,15 @@
 {{ define "main" }}
 
-<!-- Feature post by tag = "feature" -->
+<!-- featured post by tag = "featured" -->
 
-{{- range where .Site.RegularPages "Params.tags" "intersect" (slice "feature" ) | first 1 -}}
+{{- range where .Site.RegularPages "Params.tags" "intersect" (slice "featured" ) | first 1 -}}
 <section class="block md:flex relative group p-6 lg:p-10 space-y-6 md:space-x-6 my-14 bg-zinc-100 rounded-3xl hover:bg-blue-100">
   <figure class="basis-1/2 w-full aspect-video overflow-hidden rounded-2xl border">
 
-    {{- with $imgfeature := resources.Get .Params.image }}
-    {{ $imgfeature := $imgfeature.Resize "720x Q85" -}}
+    {{- with $imgfeatured := resources.Get .Params.image }}
+    {{ $imgfeatured := $imgfeatured.Resize "720x Q85" -}}
 
-    <img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ $imgfeature.Permalink }}" alt="{{ $.Name }}" width="{{ $imgfeature.Width}}" height="{{ $imgfeature.Height }}">
+    <img class="object-cover group-hover:scale-105 transition duration-500 cursor-pointer" src="{{ $imgfeatured.Permalink }}" alt="{{ $.Name }}" width="{{ $imgfeatured.Width}}" height="{{ $imgfeatured.Height }}">
 
     {{- end }}
   </figure>
@@ -21,7 +21,7 @@
 
 {{ end -}}
 
-<!-- / End feature post  -->
+<!-- / End featured post  -->
 
 <!-- Category Post -->
 
