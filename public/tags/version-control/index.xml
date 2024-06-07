@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Version Control on MHTN Lab</title>
+    <title>version control on MHTN Lab</title>
     <link>mhtnlab.com/tags/version-control/</link>
-    <description>Recent content in Version Control on MHTN Lab</description>
+    <description>Recent content in version control on MHTN Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jun 2024 14:59:54 +0530</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>mhtnlab.com/posts/introduction-to-git/</link>
       <pubDate>Fri, 07 Jun 2024 14:59:54 +0530</pubDate>
       <guid>mhtnlab.com/posts/introduction-to-git/</guid>
-      <description>You know how you&amp;rsquo;re in the coding groove, banging out lines like a maestro, but then you hit a snag and everything goes sideways?</description>
+      <description>&amp;ldquo;It&amp;rsquo;s like having a buddy who always has your back when coding in the trenches. With Git, you won&amp;rsquo;t just be coding; you&amp;rsquo;ll be coding with confidence.</description>
     </item>
   </channel>
 </rss>
