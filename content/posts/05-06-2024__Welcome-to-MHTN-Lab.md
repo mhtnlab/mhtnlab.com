@@ -19,16 +19,18 @@ draft: false
 
 ## Welcome to MHTN Lab!
 
-Greetings and salutations! You've stumbled upon my own personal enclave in the digital realm (I guess it's yours too now). At MHTN Lab, I document my ongoing voyage of learning, exploration, and passions. It's great to have you here as we embark on this journey together. It's gonna be awesome!
+Greetings and salutations! You've stumbled upon my own personal enclave in the digital realm (I guess it's yours too now). At MHTN Lab, I document my ongoing voyage of learning, exploration, and passions. It's great to have you here as we embark on this journey together.
 
 ### About MHTN Lab
 
-I started MHTN lab on the 5th of June, 2024 as a creative outlet for my study, and to hold myself accountable. The world has been very generous to me; consider this my way of giving back. Join me as I share all that I learn this journey we call life.
+I started MHTN lab on the 5th of June, 2024 as a creative outlet for my study, and to hold myself accountable. Join me as I share all that I learn on this journey we call life. Consider this my way of giving back.
 
-P.S. Shout out to Dennis Devey of [Roppers](https://www.roppers.org) - I would have never started this without you dude! Thanks for the inspiration and all that you do!
+P.S. Shout out to Dennis Devey of [Roppers](https://www.roppers.org)! Thanks for the inspiration and all that you do.
 
 ### Future Plans
 
-I intend on sharing my knowledge in the form of college and industry standard courses, all for free, without collecting any data or targeting you with advertising. Did I mention there won't be any ads? Seriously, no ads, tracking or data collection.
+I intend on sharing my knowledge in the form of college and industry standard courses, all for free, without collecting any data or targeting you with advertising.
 
-Rest assured, I have no intention of selling out, as I believe this is my calling - a better, more private, and digitally secure world for all. 
+Rest assured, I have no intention of selling out. This is my calling. 
+
+Join me in building a better, more private, and digitally secure world for all. It's gonna be awesome!
