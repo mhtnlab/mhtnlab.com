@@ -23,9 +23,9 @@ You know how you're in the coding groove, banging out lines like a maestro, but 
 
 Yeah, me neither.
 
-In case you find yourself in a bind, Git is here to help.
+In case you find yourself in a bind, however, Git is here to help.
 
-***Git?***
+### ***Git?***
 
 It's like the Swiss Army knife of coding. You know what they say about heroes, they swoop in at the very last moment and save the day. Git is the same - swooping in like a hero and saving your progress, giving you the ability to rewind time, bringing your older code from back in time, fixing your mistakes.
 
@@ -71,4 +71,6 @@ Once Homebrew has been installed, you can install Git by running the following c
 brew install git
 ```
 
-Congratulations, you have successfully installed git onto your system.
+Congratulations, you have successfully installed git onto your system. Now go forth and conquer!
+
+[Next &rarr;](/posts/creating-your-first-git-repository/)
