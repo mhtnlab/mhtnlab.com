@@ -7,7 +7,6 @@ image: 'images/mars.jpg'
 caption: 'Photo by Daniele Colucci on Unsplash'
 categories:
   - git
-  - explore
 tags:
   - version control
   - source code management
