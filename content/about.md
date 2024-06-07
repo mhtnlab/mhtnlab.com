@@ -7,7 +7,7 @@ draft: false
 
 #### Welcome to **MHTN Lab**.
 
-# _"You have stumbled upon my personal hobby."_
+# *"You have stumbled upon my personal hobby."*
 
 
  I post what I'm learning about, what I want to learn about, and what I'm interested in. I hope you will find this resource useful.
