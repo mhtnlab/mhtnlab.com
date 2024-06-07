@@ -61,11 +61,11 @@ I recommend doing it this way, as this command automates the Git install process
 
 ### Mac Users
 
-Mac users can also easily install Git by downloading and installing the official Git package for macOS from the Git website: [Git for Mac](https://git-scm.com/download/mac). Once downloaded, open the package file and follow the installation instructions.
+Mac users can view all the options for downloading and installing the official Git package for macOS [here](https://git-scm.com/download/mac).
 
-**Alternatively**, you may choose to streamline the install process by using Homebrew, a package manager for macOS. If you haven't already installed Homebrew, you can do so following the instructions on the [Homebrew website](https://brew.sh)
+**Alternatively**, you may choose to streamline the install process with Homebrew, a package manager for macOS. If you haven't already installed Homebrew, you can do so following the instructions on the [Homebrew website](https://brew.sh)
 
-Once Homebrew is install, you can install Git by running the following command in your terminal.
+Once Homebrew is installed, you can install Git by running the following command in your terminal.
 
 ```
 brew install git
