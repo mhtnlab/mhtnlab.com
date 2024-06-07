@@ -9,13 +9,13 @@ summaryLength = '20' # <- 20 words are approximately 160 characters
 
 [params]
 	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
-	description = "You have stumbled upon my personal hobby. Welcome to MHTN lab. I post what I'm learning about, what I want to learn about, and what I'm interested in. I hope you will find this resource useful."
+	description = "You have stumbled upon my personal hobby. Welcome to MHTN lab. I post what I'm learning about, what I want to learn about, and what I'm interested in. I am confident you will find this resource useful."
 	mainSections = 'posts'
 
 [author]
-	name = 'Miro'
-	bio = 'Author - MHTN lab'
-	avatar = '/images/author.jpg'
+  name = 'Miro'
+  bio = 'Author - MHTN Lab'
+  avatar = '/images/author.jpg'
 
 [menu] # Menu management
 	[[menu.main]]
