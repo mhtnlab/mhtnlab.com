@@ -6,10 +6,15 @@ description: 'Discover how you can help fuel the resistance against megacorporat
 image: 'images/nuwa-city.jpg'
 caption: 'Picture Credit: spacearchitect.org'
 categories:
-  - C
+  - c
+  - explore
 tags:
+  - c programming
+
 draft: false
 ---
+
+[Next &rarr;]()
 
 So you wanna join the fight against the corps that seek dominion over our world to control the masses? 
 

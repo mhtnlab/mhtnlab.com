@@ -17,6 +17,8 @@ tags:
 draft: false
 ---
 
+[Next &rarr;](/posts/creating-your-first-git-repository/)
+
 ## *"It's like having a buddy who always has your back when coding in the trenches. With Git, you won't just be coding; you'll be coding with confidence."*
 
 You know how you're in the coding groove, banging out lines like a maestro, but then you hit a snag and everything goes sideways?
