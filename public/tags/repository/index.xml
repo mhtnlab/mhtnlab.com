@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on MHTN Lab</title>
-    <link>mhtnlab.com/posts/</link>
-    <description>Recent content in Posts on MHTN Lab</description>
+    <title>Repository on MHTN Lab</title>
+    <link>mhtnlab.com/tags/repository/</link>
+    <description>Recent content in Repository on MHTN Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jun 2024 14:59:54 +0530</lastBuildDate>
-    <atom:link href="mhtnlab.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="mhtnlab.com/tags/repository/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Git</title>
       <link>mhtnlab.com/posts/introduction-to-git/</link>
       <pubDate>Fri, 07 Jun 2024 14:59:54 +0530</pubDate>
       <guid>mhtnlab.com/posts/introduction-to-git/</guid>
       <description>You know how you&amp;rsquo;re in the coding groove, banging out lines like a maestro, but then you hit a snag and everything goes sideways?</description>
-    </item>
-    <item>
-      <title>Welcome to MHTN Lab!</title>
-      <link>mhtnlab.com/posts/welcome-to-mhtn-lab/</link>
-      <pubDate>Wed, 05 Jun 2024 16:50:25 +0530</pubDate>
-      <guid>mhtnlab.com/posts/welcome-to-mhtn-lab/</guid>
-      <description>Welcome to MHTN Lab! Greetings and salutations! You&amp;rsquo;ve stumbled upon my own personal enclave in the digital realm (I guess it&amp;rsquo;s your&amp;rsquo;s too now).</description>
     </item>
   </channel>
 </rss>
