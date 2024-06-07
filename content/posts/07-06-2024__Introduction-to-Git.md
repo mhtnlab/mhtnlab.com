@@ -9,10 +9,10 @@ categories:
   - git
   - explore
 tags:
-  - version-control
-  - source-code-management
+  - version control
+  - source code management
   - git
-  - software-development
+  - software development
   - repository
 draft: false
 ---
