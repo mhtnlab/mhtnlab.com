@@ -7,7 +7,6 @@ image: images/moon-trawling.jpg
 caption: Photo by Nasa on Unsplash
 categories:
   - welcome
-  - explore
 tags:
   - learning 
   - exploration 
