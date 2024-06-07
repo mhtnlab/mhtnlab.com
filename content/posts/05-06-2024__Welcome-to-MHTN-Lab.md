@@ -19,13 +19,13 @@ draft: false
 
 ## Welcome to MHTN Lab!
 
-Greetings and salutations! You've stumbled upon my own personal enclave in the digital realm (I guess it's your's too now). At MHTN Lab, I document my ongoing voyage of learning, exploration, and passions. It's great to have you here as we embark on this journey together. It's gonna be awesome!
+Greetings and salutations! You've stumbled upon my own personal enclave in the digital realm (I guess it's yours too now). At MHTN Lab, I document my ongoing voyage of learning, exploration, and passions. It's great to have you here as we embark on this journey together. It's gonna be awesome!
 
 ### About MHTN Lab
 
 I started MHTN lab on the 5th of June, 2024 as a creative outlet for my study, and to hold myself accountable. The world has been very generous to me; consider this my way of giving back. Join me as I share all that I learn this journey we call life.
 
-P.S. Shout out to Dennis Devey - I would have never started this without you dude! Thanks for the inspiration and all that you do!
+P.S. Shout out to Dennis Devey of [Roppers](https://www.roppers.org) - I would have never started this without you dude! Thanks for the inspiration and all that you do!
 
 ### Future Plans
 
