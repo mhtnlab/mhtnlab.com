@@ -32,13 +32,3 @@ P.S. Shout out to Dennis Devey of [Roppers](https://www.roppers.org) - I would h
 I intend on sharing my knowledge in the form of college and industry standard courses, all for free, without collecting any data or targeting you with advertising. Did I mention there won't be any ads? Seriously, no ads, tracking or data collection.
 
 Rest assured, I have no intention of selling out, as I believe this is my calling - a better, more private, and digitally secure world for all. 
-
-### An Open Letter
-
-I extend a cordial invitation for you to join me on this exhilarating odyssey of discovery and enlightenment. Whether you're a seasoned sage or a fledgling enthusiast, rest assured there's something to pique your interest and stimulate your intellect.
-
-Thank you for gracing MHTN Lab with your presence. Together, let's embark on a voyage of discovery, where the journey is as enriching as the destination.
-
-Adventurously yours,
-
-Miro
