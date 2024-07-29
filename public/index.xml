@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MHTN Lab</title>
+    <link>mhtnlab.com/</link>
+    <description>Recent content on MHTN Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jun 2024 23:11:39 +0530</lastBuildDate>
+    <atom:link href="mhtnlab.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating Your First Git Repository</title>
+      <link>mhtnlab.com/posts/creating-your-first-git-repository/</link>
+      <pubDate>Fri, 07 Jun 2024 23:11:39 +0530</pubDate>
+      <guid>mhtnlab.com/posts/creating-your-first-git-repository/</guid>
+      <description>← Prev&#xA;Alright, alright, alright! Now that you&amp;rsquo;ve got Git installed, it&amp;rsquo;s time to git gud (*Cue sting*).&#xA;&amp;ldquo;You&amp;rsquo;re well on your way to becoming a dev.</description>
+    </item>
+    <item>
+      <title>Join the Resistance: Harnessing the Power of C Against Our Technocratic Megacorpo Overlords</title>
+      <link>mhtnlab.com/posts/join-the-resistance-harnessing-the-power-of-c-against-our-technocratic-megacorpo-overlords/</link>
+      <pubDate>Fri, 07 Jun 2024 20:45:24 +0530</pubDate>
+      <guid>mhtnlab.com/posts/join-the-resistance-harnessing-the-power-of-c-against-our-technocratic-megacorpo-overlords/</guid>
+      <description>Next →&#xA;So you wanna join the fight against the corps that seek dominion over our world to control the masses?</description>
+    </item>
+    <item>
+      <title>Introduction to Git</title>
+      <link>mhtnlab.com/posts/introduction-to-git/</link>
+      <pubDate>Fri, 07 Jun 2024 14:59:54 +0530</pubDate>
+      <guid>mhtnlab.com/posts/introduction-to-git/</guid>
+      <description>Next →&#xA;&amp;ldquo;It&amp;rsquo;s like having a buddy who always has your back when coding in the trenches. With Git, you won&amp;rsquo;t just be coding; you&amp;rsquo;ll be coding with confidence.</description>
+    </item>
+    <item>
+      <title>Welcome to MHTN Lab!</title>
+      <link>mhtnlab.com/posts/welcome-to-mhtn-lab/</link>
+      <pubDate>Wed, 05 Jun 2024 16:50:25 +0530</pubDate>
+      <guid>mhtnlab.com/posts/welcome-to-mhtn-lab/</guid>
+      <description>Welcome to MHTN Lab! I started MHTN lab on the 5th of June, 2024 as a creative outlet for my study, and to hold myself accountable.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>mhtnlab.com/about/</link>
+      <pubDate>Fri, 06 Oct 2023 20:37:29 +0700</pubDate>
+      <guid>mhtnlab.com/about/</guid>
+      <description>I started MHTN lab on the 5th of June, 2024 as a creative outlet for my study, and to hold myself accountable.</description>
+    </item>
+  </channel>
+</rss>
