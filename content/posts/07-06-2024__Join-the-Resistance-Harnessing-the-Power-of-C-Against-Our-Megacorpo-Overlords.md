@@ -7,7 +7,7 @@ image: 'images/nuwa-city.jpg'
 caption: 'Picture Credit: spacearchitect.org'
 categories:
   - c
-  - explore
+  - featured
 tags:
   - c programming
 

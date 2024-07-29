@@ -7,11 +7,7 @@ draft: false
 categories:
   - welcome
 tags:
-  - learning 
-  - exploration 
-  - technology
-  - philosophy
-  - featured
+  - hero
 ---
 
 I started MHTN lab on the 5th of June, 2024 as a creative outlet for my study, and to hold myself accountable. Join me as I share all that I learn on this journey we call life. Consider this my way of giving back.

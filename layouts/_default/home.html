@@ -1,8 +1,8 @@
 {{ define "main" }}
 
-<!-- featured post by tag = "featured" -->
+<!-- Hero Section (uses hero tag) -->
 
-{{- range where .Site.RegularPages "Params.tags" "intersect" (slice "featured" ) | first 1 -}}
+{{- range where .Site.RegularPages "Params.tags" "intersect" (slice "hero" ) | first 1 -}}
 <section class="block md:flex relative group p-6 lg:p-10 space-y-6 md:space-x-6 my-14 bg-zinc-100 rounded-3xl hover:bg-blue-100">
   <figure class="basis-1/2 w-full aspect-video overflow-hidden rounded-2xl border">
 
@@ -21,13 +21,13 @@
 
 {{ end -}}
 
-<!-- / End featured post  -->
+<!-- / End hero section  -->
 
-<!-- Category Post -->
+<!-- Featured Posts -->
 
 <section class="mb-16">
 
-    {{ $cat := "explore" }}
+    {{ $cat := "featured" }}
 
     <div class="flex items-center mb-6">
 
@@ -48,7 +48,7 @@
 
   </section>
 
-<!-- / End category post --> 
+<!-- / End featured posts --> 
 <hr class="my-8">
 <!-- Start recent post  -->
 
