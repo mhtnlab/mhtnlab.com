@@ -24,5 +24,8 @@ Monero:
 463iUx4MGj2X6Mjy6CB4aL82FhrbCjhMJ81Rzw8DkWRzcyCaXpUARHAUPoBzCqtir5Hy2LYEwAHegZsSoUt7jL5qR3g8fee
 
 Donations will go towards:
-- Upkeep (Domain)
+- Upkeep:
+    - Domain
+    - Hosting
+    - Website Maintenance
 - Course Creation
