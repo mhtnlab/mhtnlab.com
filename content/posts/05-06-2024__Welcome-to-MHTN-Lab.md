@@ -2,7 +2,7 @@
 title: "Welcome to MHTN Lab!"
 date: 2024-06-05T16:50:25+05:30
 slug: /welcome-to-mhtn-lab/
-description: Welcome to MHTN Lab, your gateway to a diverse array of topics, from cutting-edge technology to timeless philosophical musings.
+description: Welcome to MHTN Lab
 image: images/moon-trawling.jpg
 caption: Photo by Nasa on Unsplash
 categories:
@@ -18,18 +18,27 @@ draft: false
 
 ## Welcome to MHTN Lab!
 
-Greetings and salutations! You've stumbled upon my own personal enclave in the digital realm (I guess it's yours too now). At MHTN Lab, I document my ongoing voyage of learning, exploration, and passions. It's great to have you here as we embark on this journey together.
-
-### About MHTN Lab
-
 I started MHTN lab on the 5th of June, 2024 as a creative outlet for my study, and to hold myself accountable. Join me as I share all that I learn on this journey we call life. Consider this my way of giving back.
 
-P.S. Shout out to Dennis Devey of [Roppers](https://www.roppers.org)! Thanks for the inspiration and all that you do.
+P.S. Shout out to Dennis Devey of [Roppers](https://www.roppers.org)! This would have not been possible without him or Roppers, for that matter.
 
 ### Future Plans
 
-I intend on sharing my knowledge in the form of college and industry standard courses, all for free, without collecting any data or targeting you with advertising.
+Expect to see free courses on MHTN Lab soon. I am intent on making a college education freely accessible to everyone.
 
-Rest assured, I have no intention of selling out. This is my calling. 
+If you are interested in contributing, feel free to reach out.
 
-Join me in building a better, more private, and digitally secure world for all. It's gonna be awesome!
+You may also consider donating monero (XMR) to the following address:
+
+Monero:
+
+![Monero](../../images/xmr-donation-mhtnlab.jpg)
+
+463iUx4MGj2X6Mjy6CB4aL82FhrbCjhMJ81Rzw8DkWRzcyCaXpUARHAUPoBzCqtir5Hy2LYEwAHegZsSoUt7jL5qR3g8fee
+
+Donations will go towards:
+- Upkeep:
+    - Domain
+    - Hosting
+    - Website Maintenance
+- Course Creation
