@@ -1,6 +1,6 @@
 ---
 title: "Welcome to MHTN Lab!"
-date: 2023-10-06T20:37:29+07:00
+date: 2024-06-05T20:37:29+07:00
 slug: /about/
 image: images/moon-trawling.jpg
 draft: false
