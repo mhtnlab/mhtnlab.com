@@ -17,9 +17,11 @@ If you are interested in contributing, feel free to reach out.
 
 You may also consider donating monero (XMR) to the following address:
 
-[!alt](images/xmr-donation-mhtnlab.png)
+Monero:
 
-monero: 463iUx4MGj2X6Mjy6CB4aL82FhrbCjhMJ81Rzw8DkWRzcyCaXpUARHAUPoBzCqtir5Hy2LYEwAHegZsSoUt7jL5qR3g8fee
+![Monero](../images/xmr-donation-mhtnlab.jpg)
+
+463iUx4MGj2X6Mjy6CB4aL82FhrbCjhMJ81Rzw8DkWRzcyCaXpUARHAUPoBzCqtir5Hy2LYEwAHegZsSoUt7jL5qR3g8fee
 
 Donations will go towards:
 - Upkeep (Domain)
