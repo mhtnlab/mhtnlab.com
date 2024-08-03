@@ -1,7 +1,7 @@
 ---
-title: 'Introduction to Git'
+title: 'Getting Started with Git'
 date: 2024-06-07T14:59:54+05:30
-slug: '/introduction-to-git/'
+slug: '/getting-started-with-git/'
 description: 'The first part in a series on version management with Git'
 image: 'images/mars.jpg'
 caption: 'Photo by Daniele Colucci on Unsplash'
@@ -18,17 +18,25 @@ tags:
 
 [Next &rarr;](/posts/creating-your-first-git-repository/)
 
-## *"It's like having a buddy who always has your back when coding in the trenches. With Git, you won't just be coding; you'll be coding with confidence."*
-
-You know how you're in the coding groove, banging out lines like a maestro, but then you hit a snag and everything goes sideways?
+***You know how you're in the coding groove, banging out lines like a maestro, but then you hit a snag and everything goes sideways?***
 
 Yeah, me neither.
 
 In case you find yourself in a bind, however, Git is here to help.
 
-### ***Git?***
+### What's Git?
 
-It's like the Swiss Army knife of coding. You know what they say about heroes, they swoop in at the very last moment and save the day. Git is the same - swooping in like a hero and saving your progress, giving you the ability to rewind time, bringing your older code from back in time, fixing your mistakes.
+You can think of git as a tracking system - only, this tracking system tracks changes you make to code, at least that's what it's mostly used for, however you can indeed use it to track changes to any file. Heresy!
+
+### How does it work?
+
+Git tracks changes to files inside a repository - this is just a folder, where you store your code for a specific program. You start by creating a project folder, and then initializing git for your project.
+
+Once you've added code to your 'repo', you can then choose to upload you project to a remote repository, hosted by a distributed version control provider, like [GitHub](https://github.com).
+
+![alt](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.YyOMn9wj8tZCEyCPTYGlegHaHa%26pid%3DApi&sp=1722720444T387e413b3203362f99b78e90327ac5fd4dbd1b682648e98761c4e16a425e1209)
+
+Although, if we're being honest, GitHub isn't just a version control provider anymore - it's a developer platform.
 
 ### Getting Started
 
