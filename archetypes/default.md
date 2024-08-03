@@ -7,5 +7,4 @@ image: ''
 caption: ''
 categories:
 tags:
-draft: true
 ---

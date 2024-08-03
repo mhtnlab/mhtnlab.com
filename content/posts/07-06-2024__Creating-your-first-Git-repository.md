@@ -13,7 +13,6 @@ tags:
   - git
   - software development
   - repository
-draft: false
 ---
 [&larr; Prev](/posts/introduction-to-git/) 
 

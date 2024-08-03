@@ -14,7 +14,6 @@ tags:
   - git
   - software development
   - repository
-draft: false
 ---
 
 [Next &rarr;](/posts/creating-your-first-git-repository/)
