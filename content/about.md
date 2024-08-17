@@ -20,6 +20,10 @@ Expect to see free courses on MHTN Lab soon. I am intent on making a college edu
 
 If you are interested in contributing, feel free to reach out.
 
+You can reach out to me via [session.](https://getsession.org/download)
+
+![Session](../images/im-session.jpg)
+
 You may also consider donating monero (XMR) to the following address:
 
 Monero:
@@ -33,4 +37,4 @@ Donations will go towards:
     - Domain
     - Hosting
     - Website Maintenance
-- Course Creation
+- Courses
