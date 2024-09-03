@@ -71,9 +71,13 @@ Some of us manage to “survive” this process, largely leaving our right brain
 
 ### Neurodivergence
 
-This is also where neurodivergence occurs. “Normal” people have a certain harmony between both their hemispheres. Neurodivergent people, however, tend to rely more on one hemisphere than the other. Neurodivergence caused by Down’s Syndrome usually results in the right brain being more dominant, which is why people with Down’s Syndrome excel at the arts and making new friends (sometimes even without the ability to communicate properly!). Those on the autism spectrum, however, tend to be faster learners and display greater propensities for logical thinking (left-brained).
+This is also where neurodivergence occurs. “Normal” people have a certain harmony between both their hemispheres. Neurodivergent people, however, tend to rely more on one hemisphere than the other. 
 
-There is also a case to be made for the dark triad, but I will not be exploring this.
+Neurodivergence caused by Down’s Syndrome usually results in the right brain being more dominant, which is why people with Down’s Syndrome excel at the arts and making new friends (sometimes even without the ability to communicate properly)! 
+
+Those on the autism spectrum, however, tend to be faster learners and display greater propensities for logical thinking (left-brained).
+
+There is also a case to be made for the dark triad, but I will not be exploring this right now.
 
 ### Learning and Memory
 
@@ -88,5 +92,6 @@ Of course, social conditioning starts before language learning, but then it pave
 This is why you may sometimes think something but not be able to structure a thought. It may also explain why you forget things (again, one of my beliefs: I believe short-term memory is stored in the right hemisphere and long-term memory in the left because it is structured and symbolic).
 
 This is also why you may have a dream and then be unable to remember it.
+
 I am going to stop here; abrupt, I know, but when I finish giving form to these thoughts, I will update this post.
 
