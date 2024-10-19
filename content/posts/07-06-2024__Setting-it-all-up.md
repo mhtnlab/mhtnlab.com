@@ -1,6 +1,6 @@
 ---
 title: 'Setting it all up'
-date: 2024-08-03T16:42:52+05:30 
+date: 2024-06-07T18:37:54+05:30 
 slug: '/git/setting-it-all-up/'
 description: "What to do next after installing git"
 image: 'images/mars.jpg'
