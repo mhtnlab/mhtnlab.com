@@ -10,9 +10,9 @@
     <atom:link href="mhtnlab.com/categories/featured/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started with Git</title>
-      <link>mhtnlab.com/posts/getting-started-with-git/</link>
+      <link>mhtnlab.com/posts/git/getting-started-with-git/</link>
       <pubDate>Fri, 07 Jun 2024 14:59:54 +0530</pubDate>
-      <guid>mhtnlab.com/posts/getting-started-with-git/</guid>
+      <guid>mhtnlab.com/posts/git/getting-started-with-git/</guid>
       <description>Next →&#xA;You know how you&amp;rsquo;re in the coding groove, banging out lines like a maestro, but then you hit a snag and everything goes sideways?</description>
     </item>
   </channel>

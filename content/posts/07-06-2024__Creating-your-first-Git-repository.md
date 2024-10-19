@@ -14,9 +14,9 @@ tags:
   - software development
   - repository
 ---
-[&larr; Prev](/posts/introduction-to-git/) 
+[&larr; Prev](/posts/git/setting-it-all-up)
 
-Alright, alright, alright! Now that you've got Git installed, it's time to git gud (*\*Cue sting\**).
+Alright, alright, alright! Now that you've got Git set up, it's time to git gud (*\*Cue sting\**).
 
 ## *"You're well on your way to becoming a dev."*
 
@@ -33,4 +33,4 @@ git init
 
 You've created your first repo! Now get in there and start hacking.
 
-[Next &rarr;]()
+[Next &rarr;](#)

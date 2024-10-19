@@ -14,7 +14,7 @@ tags:
   - software development
   - repository
 ---
-[&larr; Prev](/posts/introduction-to-git/) 
+[&larr; Prev](/posts/git/getting-started-with-git/) 
 
 Most people skip the configurations, but you - You aren't most people. You want to be a hackerman extrodinaire. Or you just want to set git up to work with large codebases (the last time an intern 'rm -rf'ed their codebase corporate wasn't too happy).
 

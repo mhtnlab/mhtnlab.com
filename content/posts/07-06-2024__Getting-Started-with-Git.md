@@ -1,7 +1,7 @@
 ---
 title: 'Getting Started with Git'
 date: 2024-06-07T14:59:54+05:30
-slug: '/getting-started-with-git/'
+slug: '/git/getting-started-with-git/'
 description: 'The first part in a series on version management with Git'
 image: 'images/mars.jpg'
 caption: 'Photo by Daniele Colucci on Unsplash'
@@ -16,7 +16,7 @@ tags:
   - repository
 ---
 
-[Next &rarr;](/posts/creating-your-first-git-repository/)
+[Next &rarr;](/posts/git/setting-it-all-up/)
 
 ***You know how you're in the coding groove, banging out lines like a maestro, but then you hit a snag and everything goes sideways?***
 
@@ -82,4 +82,4 @@ brew install git
 
 Congratulations, you have successfully installed git onto your system. Now go forth and conquer!
 
-[Next &rarr;](/posts/creating-your-first-git-repository/)
+[Next &rarr;](/posts/git/setting-it-all-up/)
