@@ -1,7 +1,7 @@
 ---
 title: 'You are a network'
 date: 2024-09-03T01:38:23+05:30
-slug: '/you-are-a-network/'
+slug: '/reflections/you-are-a-network/'
 description: 'Your entire body is a network'
 image: 'images/blue-nebula.jpg'
 caption: 'Photo by Nasa on Unsplash'

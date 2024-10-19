@@ -1,7 +1,7 @@
 ---
 title: 'On Learning'
 date: 2024-08-17T21:50:13+05:30
-slug: '/on-learning/'
+slug: '/reflections/on-learning/'
 description: 'Reflections on learning and how best to learn'
 image: 'images/blue-nebula.jpg'
 caption: 'Photo by Nasa on Unsplash'
