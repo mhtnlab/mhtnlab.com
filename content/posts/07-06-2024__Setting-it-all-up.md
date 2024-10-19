@@ -120,4 +120,4 @@ ssh-add c:/Users/YOU/.ssh/id_ed25519
 
 That's it you're done. If you're interested in reading more check out the documentation on [GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
-[Next &rarr;]()
+[Next &rarr;](/posts/git/creating-your-first-git-repository/)
