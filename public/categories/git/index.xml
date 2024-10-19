@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on MHTN Lab</title>
+    <link>mhtnlab.com/categories/git/</link>
+    <description>Recent content in git on MHTN Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Aug 2024 16:42:52 +0530</lastBuildDate>
+    <atom:link href="mhtnlab.com/categories/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting it all up</title>
+      <link>mhtnlab.com/posts/git/setting-it-all-up/</link>
+      <pubDate>Sat, 03 Aug 2024 16:42:52 +0530</pubDate>
+      <guid>mhtnlab.com/posts/git/setting-it-all-up/</guid>
+      <description>← Prev&#xA;Most people skip the configurations, but you - You aren&amp;rsquo;t most people. You want to be a hackerman extrodinaire.</description>
+    </item>
+    <item>
+      <title>Creating Your First Git Repository</title>
+      <link>mhtnlab.com/posts/git/creating-your-first-git-repository/</link>
+      <pubDate>Fri, 07 Jun 2024 23:11:39 +0530</pubDate>
+      <guid>mhtnlab.com/posts/git/creating-your-first-git-repository/</guid>
+      <description>← Prev&#xA;Alright, alright, alright! Now that you&amp;rsquo;ve got Git set up, it&amp;rsquo;s time to git gud (*Cue sting*).&#xA;&amp;ldquo;You&amp;rsquo;re well on your way to becoming a dev.</description>
+    </item>
+    <item>
+      <title>Getting Started with Git</title>
+      <link>mhtnlab.com/posts/git/getting-started-with-git/</link>
+      <pubDate>Fri, 07 Jun 2024 14:59:54 +0530</pubDate>
+      <guid>mhtnlab.com/posts/git/getting-started-with-git/</guid>
+      <description>Next →&#xA;You know how you&amp;rsquo;re in the coding groove, banging out lines like a maestro, but then you hit a snag and everything goes sideways?</description>
+    </item>
+  </channel>
+</rss>

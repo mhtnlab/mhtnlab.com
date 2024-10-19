@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reflections on MHTN Lab</title>
+    <link>mhtnlab.com/categories/reflections/</link>
+    <description>Recent content in reflections on MHTN Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Sep 2024 01:38:23 +0530</lastBuildDate>
+    <atom:link href="mhtnlab.com/categories/reflections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You are a network</title>
+      <link>mhtnlab.com/posts/reflections/you-are-a-network/</link>
+      <pubDate>Tue, 03 Sep 2024 01:38:23 +0530</pubDate>
+      <guid>mhtnlab.com/posts/reflections/you-are-a-network/</guid>
+      <description>Introduction Your entire body is a large system of multiple networks of subsystems that work together to keep you alive.</description>
+    </item>
+    <item>
+      <title>On Learning</title>
+      <link>mhtnlab.com/posts/reflections/on-learning/</link>
+      <pubDate>Sat, 17 Aug 2024 21:50:13 +0530</pubDate>
+      <guid>mhtnlab.com/posts/reflections/on-learning/</guid>
+      <description>Preface Hey, you! Yes, you- I&amp;rsquo;m doing something new. You&amp;rsquo;ve stumbled upon my first public journal entry. I&amp;rsquo;m not sure what prompted me to start writing out my thoughts - I&amp;rsquo;m not even sure I will continue to write them down.</description>
+    </item>
+  </channel>
+</rss>
