@@ -3,7 +3,7 @@
 <!-- Dynamic title for SEO -->
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
 <!-- Dynamic description for SEO -->
-<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description }}{{ end }}">
-<meta name="image" content="{{ if .IsHome }}{{ .Site.Params.image | absURL }}{{ else }}{{ .Params.image | absURL }}{{ end }}">
+<meta name="og:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description }}{{ end }}">
+<meta name="og:image" content="{{ if .IsHome }}{{ .Site.Params.image | absURL }}{{ else }}{{ .Params.image | absURL }}{{ end }}">
 {{- partialCached "head/css.html" . -}}
 {{- partialCached "head/favicon.html" . -}}
