@@ -1,5 +1,5 @@
 ---
-title: 'Black Screens Broken Computers virtual Machines and GPU Passthrough'
+title: 'Black Screens, Broken Computers, Virtual Machines and GPU Passthrough'
 date: 2024-11-25T21:42:46+05:30
 lastmod: 2024-11-25T21:42:46+05:30
 slug: 'black-screens-broken-computers-virtual-machines-and-gpu-passthrough/'
@@ -165,4 +165,4 @@ Let this be a cautionary tale. You have been warned.
 
 ![rtfm](https://i.imgflip.com/4o0mb2.jpg)
 
-If you still wish to proceed, I wish you the best. And for the love of God RTFM.
+If you still wish to proceed, I wish you the best. And for the love of God RTFM!
