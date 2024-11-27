@@ -15,7 +15,7 @@ tags:
   - initramfs
   - virtual machines
   - gpu passthrough
-draft: true
+draft: false
 ---
 
 While learning about virtual machines, I came across an interesting concept - virtual machine hardening. This practice involves measures to protect virtual machines from threats by:
