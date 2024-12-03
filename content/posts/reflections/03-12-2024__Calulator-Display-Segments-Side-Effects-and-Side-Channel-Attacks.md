@@ -8,7 +8,7 @@ image: 'images/segmented-display.jpg'
 caption: ''
 categories: [featured, reflections]
 tags: [hardware, logic-gates, logic-circuits, side-channel, side-effects, segmented-lcd, roppers]
-draft: true
+draft: false
 ---
 
 This week, it happened. Just like clockwork the gears of my mind began to turn. Side channels, a concept once all too unfamiliar finally revelead its secrets to me, unravelling in all its beauty, while revisiting the basics of computer hardware.
