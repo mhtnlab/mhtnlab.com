@@ -13,7 +13,7 @@ draft: false
 
 This week, it happened. Just like clockwork the gears of my mind began to turn. Side channels, a concept once all too unfamiliar finally revelead its secrets to me, unravelling in all its beauty, while revisiting the basics of computer hardware.
 
-While I have heard about side channel attacks before, likely in passing, I did not know the specifics. Prior to my understanding the concept, I did not look it up either, until now. I wish I'd done so soonerm because it's actually quite interesting.
+While I have heard about side channel attacks before, likely in passing, I did not know the specifics. Prior to my understanding the concept, I did not look it up either, until now. I wish I'd done so sooner because it's actually quite interesting.
 
 Side channels or side bands, whatever you want to call them, are difficult to mitigate, given the binary nature of the circuitry we use. In order to mitigate them, however, one must first understand them.
 
