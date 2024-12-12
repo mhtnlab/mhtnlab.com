@@ -6,8 +6,22 @@
     <description>Recent content on MHTN Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Sep 2024 01:38:23 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 22:25:57 +0530</lastBuildDate>
     <atom:link href="mhtnlab.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calulator Display Segments, Side Effects, and Side Channel Attacks</title>
+      <link>mhtnlab.com/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</link>
+      <pubDate>Tue, 03 Dec 2024 22:25:57 +0530</pubDate>
+      <guid>mhtnlab.com/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</guid>
+      <description>This week, it happened. Just like clockwork the gears of my mind began to turn. Side channels, a concept once all too unfamiliar finally revelead its secrets to me, unravelling in all its beauty, while revisiting the basics of computer hardware.</description>
+    </item>
+    <item>
+      <title>Black Screens, Broken Computers, Virtual Machines and GPU Passthrough</title>
+      <link>mhtnlab.com/posts/reflections/black-screens-broken-computers-virtual-machines-and-gpu-passthrough/</link>
+      <pubDate>Mon, 25 Nov 2024 21:42:46 +0530</pubDate>
+      <guid>mhtnlab.com/posts/reflections/black-screens-broken-computers-virtual-machines-and-gpu-passthrough/</guid>
+      <description>While learning about virtual machines, I came across an interesting concept - virtual machine hardening. This practice involves measures to protect virtual machines from threats by:</description>
+    </item>
     <item>
       <title>You are a network</title>
       <link>mhtnlab.com/posts/reflections/you-are-a-network/</link>

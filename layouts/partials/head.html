@@ -5,5 +5,22 @@
 <!-- Dynamic description for SEO -->
 <meta name="og:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description }}{{ end }}">
 <meta name="og:image" content="{{ if .IsHome }}{{ .Site.Params.image | absURL }}{{ else }}{{ .Params.image | absURL }}{{ end }}">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ printf "%s | %s" .Title .Site.Title }}{{ end }}">
+<meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description }}{{ end }}">
+<meta property="og:image" content="{{ if .IsHome }}{{ .Site.Params.image | absURL }}{{ else }}{{ .Params.image | absURL }}{{ end }}">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="mhtnlab.com">
+<meta property="twitter:url" content="{{ .Permalink }}">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ printf "%s | %s" .Title .Site.Title }}{{ end }}">
+<meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description }}{{ end }}">
+<meta name="twitter:image" content="{{ if .IsHome }}{{ .Site.Params.image | absURL }}{{ else }}{{ .Params.image | absURL }}{{ end }}">
+
+
 {{- partialCached "head/css.html" . -}}
 {{- partialCached "head/favicon.html" . -}}

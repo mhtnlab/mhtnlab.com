@@ -2,17 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>mhtnlab.com/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</loc>
+    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
+  </url><url>
     <loc>mhtnlab.com/categories/</loc>
-    <lastmod>2024-09-03T01:38:23+05:30</lastmod>
+    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/categories/featured/</loc>
+    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/hardware/</loc>
+    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/logic-circuits/</loc>
+    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/logic-gates/</loc>
+    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/</loc>
-    <lastmod>2024-09-03T01:38:23+05:30</lastmod>
+    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/posts/</loc>
-    <lastmod>2024-09-03T01:38:23+05:30</lastmod>
+    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/categories/reflections/</loc>
-    <lastmod>2024-09-03T01:38:23+05:30</lastmod>
+    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/roppers/</loc>
+    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/segmented-lcd/</loc>
+    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/side-channel/</loc>
+    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/side-effects/</loc>
+    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/</loc>
+    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/posts/reflections/black-screens-broken-computers-virtual-machines-and-gpu-passthrough/</loc>
+    <lastmod>2024-11-25T21:42:46+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/gpu-passthrough/</loc>
+    <lastmod>2024-11-25T21:42:46+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/initramfs/</loc>
+    <lastmod>2024-11-25T21:42:46+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/kernelstub/</loc>
+    <lastmod>2024-11-25T21:42:46+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/linux-kernel/</loc>
+    <lastmod>2024-11-25T21:42:46+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/virtual-machines/</loc>
+    <lastmod>2024-11-25T21:42:46+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/posts/reflections/you-are-a-network/</loc>
     <lastmod>2024-09-03T01:38:23+05:30</lastmod>
@@ -38,14 +86,8 @@
     <loc>mhtnlab.com/tags/source-code-management/</loc>
     <lastmod>2024-06-07T18:37:54+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/</loc>
-    <lastmod>2024-06-07T18:37:54+05:30</lastmod>
-  </url><url>
     <loc>mhtnlab.com/tags/version-control/</loc>
     <lastmod>2024-06-07T18:37:54+05:30</lastmod>
-  </url><url>
-    <loc>mhtnlab.com/categories/featured/</loc>
-    <lastmod>2024-06-07T14:59:54+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/posts/git/getting-started-with-git/</loc>
     <lastmod>2024-06-07T14:59:54+05:30</lastmod>

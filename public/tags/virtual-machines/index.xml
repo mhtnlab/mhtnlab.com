@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virtual machines on MHTN Lab</title>
+    <link>mhtnlab.com/tags/virtual-machines/</link>
+    <description>Recent content in virtual machines on MHTN Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2024 21:42:46 +0530</lastBuildDate>
+    <atom:link href="mhtnlab.com/tags/virtual-machines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black Screens, Broken Computers, Virtual Machines and GPU Passthrough</title>
+      <link>mhtnlab.com/posts/reflections/black-screens-broken-computers-virtual-machines-and-gpu-passthrough/</link>
+      <pubDate>Mon, 25 Nov 2024 21:42:46 +0530</pubDate>
+      <guid>mhtnlab.com/posts/reflections/black-screens-broken-computers-virtual-machines-and-gpu-passthrough/</guid>
+      <description>While learning about virtual machines, I came across an interesting concept - virtual machine hardening. This practice involves measures to protect virtual machines from threats by:</description>
+    </item>
+  </channel>
+</rss>
