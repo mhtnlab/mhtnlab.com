@@ -63,7 +63,7 @@ Then the internet is born. Corpos battle it out for internet supremacy in the br
 
 Microsoft faces an injunction (Microsoft Anti-trust), Firefox takes over, then Google creates chrome and ends the browser wars. We also had a parallel war - the culture wars - since the advent of PBX systems, online bulletins, mailing lists, AOL, E-mail, Chatrooms, etc.
 
-I also skipped a lot about Xerox, desktop environments, and Xorg, the history of computer hardware and peripherals, the first computer virus - how it started as a joke, the creeper and the reaper. It's a very interesting history.
+I also skipped a lot about Xerox, Apple, Darwin, NextStep, Xorg, desktop environments, Netscape, and the history of computer hardware and peripherals, the first computer virus - how it started as a joke, the creeper and the reaper. It's a very interesting history.
 
 And here we are today - the internet we know and love.
 
