@@ -4,7 +4,7 @@ date: 2024-06-07T23:11:39+05:30
 slug: 'creating-your-first-git-repository/'
 description: "Git your groove on and dive into creating your first repo! Let's get coding with Git!"
 image: 'images/mars.jpg'
-draft: true
+draft: false
 caption: 'Photo by Daniele Colucci on Unsplash'
 categories:
   - git
