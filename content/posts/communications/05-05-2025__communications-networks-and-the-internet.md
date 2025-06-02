@@ -10,6 +10,9 @@ categories: [featured, comms]
 tags: [communications, the-internet, telco, networks, computer]
 draft: false
 ---
+
+[Next &rarr;](/posts/communications/the-infrastructure-that-enables-the-internet/)
+
 Ever wonder how the internet works? Or where it all started?
 
 Well, I'm not going to explain it to you...
@@ -77,3 +80,7 @@ Part II coming out soon. I'll discuss the technologies that make the internet wo
 Look out for signalling system 7, fixed connections and more.
 
 P.S. Might add pictures later for better engagement and SEO
+
+P.P.S. It is now later, and I have added a few images.
+
+[Next &rarr;](/posts/communications/the-infrastructure-that-enables-the-internet/)
