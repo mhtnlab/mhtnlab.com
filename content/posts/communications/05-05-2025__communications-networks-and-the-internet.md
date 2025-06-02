@@ -2,10 +2,10 @@
 title: 'Communications, Networks, and the Internet'
 date: 2025-05-05T16:38:10+05:30
 lastmod: 2025-05-05T16:38:10+05:30
-slug: '/communications/communications-networks-and-the-internet/'
+slug: '/communications-networks-and-the-internet/'
 description: 'An abstracted-away, easy-to-digest history of communications and the evolution of the internet'
-image: ''
-caption: ''
+image: 'images/telco.jpg'
+caption: 'Photo by Nathan Anderson on Unsplash'
 categories: [featured, comms]
 tags: [communications, the-internet, telco, networks, computer]
 draft: false
@@ -28,6 +28,9 @@ After the breakthroughs of the sciences in radio technology (Marconi, Bell, Tesl
 
 ### Bell Labs
 
+![Current Day Nokia Bell Labs](https://www.nokia.com/sites/default/files/2024-11/mh_drone_front-side_1.width-640.format-webp.jpeg?height=246&width=437)
+*Current Day Nokia Bell Labs*
+
 The advent of telephone communication required infrastructure for nation-wide communication to be feasible. Bell System spent its first few years advancing telephone communications and building infrastructure - this was when they came up with the idea of the **Bell Laboratory building** - remember this - it will come in handy later.
 
 Over time, the research they were doing would go on to gain the interest of the military, the government, and capitalists. This is where you will find a connection to Grace Hopper. Yes, *__that__* Grace Hopper - *__the__* Grace Hopper - Rear Admiral Grace Brewster Hopper (née Murray).
@@ -35,6 +38,8 @@ Over time, the research they were doing would go on to gain the interest of the 
 ### Beyond Bell Labs
 
 Their research went on, their infrastructure morphed, their technology evolved - leading to the Television demonstration at Bell Telephone Labs by Herbert Ives and Frank Gray. Point being, similar technologies were used to transmit telephone and television signals - a lot of cable and some radio waves.
+
+![Radio](../../../images/radio.jpg)
 
 Yes, yes, I know - I hand-waved away the advent of AM and FM radio and a whole lot more about broadcasts. You've likely already experienced AM and/or FM radio broadcasts.
 
