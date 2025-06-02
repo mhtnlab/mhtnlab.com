@@ -2,13 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>mhtnlab.com/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</loc>
-    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
+    <loc>mhtnlab.com/tags/authentication/</loc>
+    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/categories/</loc>
-    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
+    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/categories/comms/</loc>
+    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/cpe/</loc>
+    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/equipment/</loc>
+    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/infrastructure/</loc>
+    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/</loc>
+    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/networks/</loc>
+    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/posts/</loc>
+    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/radius/</loc>
+    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/synchronization/</loc>
+    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/</loc>
+    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/posts/communications/the-infrastructure-that-enables-the-internet/</loc>
+    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/the-internet/</loc>
+    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/ue/</loc>
+    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/communications/</loc>
+    <lastmod>2025-05-05T16:38:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/posts/communications/communications-networks-and-the-internet/</loc>
+    <lastmod>2025-05-05T16:38:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/computer/</loc>
+    <lastmod>2025-05-05T16:38:10+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/categories/featured/</loc>
+    <lastmod>2025-05-05T16:38:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/telco/</loc>
+    <lastmod>2025-05-05T16:38:10+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</loc>
     <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/tags/hardware/</loc>
@@ -18,12 +72,6 @@
     <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/tags/logic-gates/</loc>
-    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
-  </url><url>
-    <loc>mhtnlab.com/</loc>
-    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
-  </url><url>
-    <loc>mhtnlab.com/posts/</loc>
     <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/categories/reflections/</loc>
@@ -39,9 +87,6 @@
     <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/tags/side-effects/</loc>
-    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
-  </url><url>
-    <loc>mhtnlab.com/tags/</loc>
     <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/posts/reflections/black-screens-broken-computers-virtual-machines-and-gpu-passthrough/</loc>

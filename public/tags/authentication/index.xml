@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>authentication on MHTN Lab</title>
+    <link>mhtnlab.com/tags/authentication/</link>
+    <description>Recent content in authentication on MHTN Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Jun 2025 01:27:10 +0530</lastBuildDate>
+    <atom:link href="mhtnlab.com/tags/authentication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Infrastructure that enables the Internet</title>
+      <link>mhtnlab.com/posts/communications/the-infrastructure-that-enables-the-internet/</link>
+      <pubDate>Tue, 03 Jun 2025 01:27:10 +0530</pubDate>
+      <guid>mhtnlab.com/posts/communications/the-infrastructure-that-enables-the-internet/</guid>
+      <description>← prev&#xA;DISCLAIMER: THIS ARTICLE IS STILL ACTIVELY BEING WORKED ON&#xA;There are a vast number of options for connecting to the internet; however, the basic premise remains the same: your end devices communicate with your ISP’s network, which in turn communicates with other providers’ networks.</description>
+    </item>
+  </channel>
+</rss>

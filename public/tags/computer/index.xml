@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer on MHTN Lab</title>
+    <link>mhtnlab.com/tags/computer/</link>
+    <description>Recent content in computer on MHTN Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 May 2025 16:38:10 +0530</lastBuildDate>
+    <atom:link href="mhtnlab.com/tags/computer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Communications, Networks, and the Internet</title>
+      <link>mhtnlab.com/posts/communications/communications-networks-and-the-internet/</link>
+      <pubDate>Mon, 05 May 2025 16:38:10 +0530</pubDate>
+      <guid>mhtnlab.com/posts/communications/communications-networks-and-the-internet/</guid>
+      <description>Ever wonder how the internet works? Or where it all started?&#xA;Well, I&amp;rsquo;m not going to explain it to you&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>
