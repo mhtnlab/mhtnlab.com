@@ -13,7 +13,7 @@ tags:
   - consumer electronics
   - tariffs
   - economics
-draft: true
+draft: false
 ---
 ### Disclaimer
 
