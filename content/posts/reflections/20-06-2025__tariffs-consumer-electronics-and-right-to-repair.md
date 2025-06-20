@@ -31,10 +31,10 @@ In lieu of these tariffs, Beijing has also place retaliatory tariffs (The White 
 
 While the CHIPS Act does offer benefits to a homegrown consumer electronics industry, the disadvantages and high initial costs in addition to a lack of raw materials is deterring, as these policies will only lead to more geopolitical tension and ultimately, higher price tags on consumer electronics.
 
-Some food for thought: how will this affect the repair industry and our right to repair? If you’re interested in our right to repair and ownership a good place would be to start would be here: 
+Some food for thought: how will this affect the repair industry and our right to repair? If you’re interested in our right to repair and ownership a good place would be to start would be here:
 
-    • https://www.repair.org/
-    • https://consumerrights.wiki/Main_Page
+  - https://www.repair.org/
+  - https://consumerrights.wiki/Main_Page
 
 ### References:
 

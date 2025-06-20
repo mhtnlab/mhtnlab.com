@@ -2,10 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>mhtnlab.com/tags/authentication/</loc>
-    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
-  </url><url>
     <loc>mhtnlab.com/categories/</loc>
+    <lastmod>2025-06-20T13:53:07+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/consumer-electronics/</loc>
+    <lastmod>2025-06-20T13:53:07+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/economics/</loc>
+    <lastmod>2025-06-20T13:53:07+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/</loc>
+    <lastmod>2025-06-20T13:53:07+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/posts/</loc>
+    <lastmod>2025-06-20T13:53:07+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/categories/reflections/</loc>
+    <lastmod>2025-06-20T13:53:07+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/right-to-repair/</loc>
+    <lastmod>2025-06-20T13:53:07+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/</loc>
+    <lastmod>2025-06-20T13:53:07+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/tariffs/</loc>
+    <lastmod>2025-06-20T13:53:07+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/posts/reflections/tariffs-consumer-electronics-and-right-to-repair/</loc>
+    <lastmod>2025-06-20T13:53:07+05:30</lastmod>
+  </url><url>
+    <loc>mhtnlab.com/tags/authentication/</loc>
     <lastmod>2025-06-03T01:27:10+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/categories/comms/</loc>
@@ -20,22 +47,13 @@
     <loc>mhtnlab.com/tags/infrastructure/</loc>
     <lastmod>2025-06-03T01:27:10+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/</loc>
-    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
-  </url><url>
     <loc>mhtnlab.com/tags/networks/</loc>
-    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
-  </url><url>
-    <loc>mhtnlab.com/posts/</loc>
     <lastmod>2025-06-03T01:27:10+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/tags/radius/</loc>
     <lastmod>2025-06-03T01:27:10+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/tags/synchronization/</loc>
-    <lastmod>2025-06-03T01:27:10+05:30</lastmod>
-  </url><url>
-    <loc>mhtnlab.com/tags/</loc>
     <lastmod>2025-06-03T01:27:10+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/posts/communications/the-infrastructure-that-enables-the-internet/</loc>
@@ -72,9 +90,6 @@
     <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/tags/logic-gates/</loc>
-    <lastmod>2024-12-03T22:25:57+05:30</lastmod>
-  </url><url>
-    <loc>mhtnlab.com/categories/reflections/</loc>
     <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
     <loc>mhtnlab.com/tags/roppers/</loc>
