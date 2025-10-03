@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>featured on MHTN Lab</title>
-    <link>mhtnlab.com/categories/featured/</link>
-    <description>Recent content in featured on MHTN Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Featured on MHTN Lab</title>
+    <link>//localhost:1313/categories/featured/</link>
+    <description>Recent content in Featured on MHTN Lab</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 May 2025 16:38:10 +0530</lastBuildDate>
-    <atom:link href="mhtnlab.com/categories/featured/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/featured/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Communications, Networks, and the Internet</title>
-      <link>mhtnlab.com/posts/communications/communications-networks-and-the-internet/</link>
+      <link>//localhost:1313/posts/communications/communications-networks-and-the-internet/</link>
       <pubDate>Mon, 05 May 2025 16:38:10 +0530</pubDate>
-      <guid>mhtnlab.com/posts/communications/communications-networks-and-the-internet/</guid>
+      <guid>//localhost:1313/posts/communications/communications-networks-and-the-internet/</guid>
       <description>Next →&#xA;Ever wonder how the internet works? Or where it all started?&#xA;Well, I&amp;rsquo;m not going to explain it to you&amp;hellip;</description>
     </item>
     <item>
       <title>Calulator Display Segments, Side Effects, and Side Channel Attacks</title>
-      <link>mhtnlab.com/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</link>
+      <link>//localhost:1313/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</link>
       <pubDate>Tue, 03 Dec 2024 22:25:57 +0530</pubDate>
-      <guid>mhtnlab.com/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</guid>
+      <guid>//localhost:1313/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</guid>
       <description>This week, it happened. Just like clockwork the gears of my mind began to turn. Side channels, a concept once all too unfamiliar finally revelead its secrets to me, unravelling in all its beauty, while revisiting the basics of computer hardware.</description>
     </item>
     <item>
       <title>Black Screens, Broken Computers, Virtual Machines and GPU Passthrough</title>
-      <link>mhtnlab.com/posts/reflections/black-screens-broken-computers-virtual-machines-and-gpu-passthrough/</link>
+      <link>//localhost:1313/posts/reflections/black-screens-broken-computers-virtual-machines-and-gpu-passthrough/</link>
       <pubDate>Mon, 25 Nov 2024 21:42:46 +0530</pubDate>
-      <guid>mhtnlab.com/posts/reflections/black-screens-broken-computers-virtual-machines-and-gpu-passthrough/</guid>
+      <guid>//localhost:1313/posts/reflections/black-screens-broken-computers-virtual-machines-and-gpu-passthrough/</guid>
       <description>While learning about virtual machines, I came across an interesting concept - virtual machine hardening. This practice involves measures to protect virtual machines from threats by:</description>
     </item>
     <item>
       <title>Getting Started with Git</title>
-      <link>mhtnlab.com/posts/git/getting-started-with-git/</link>
+      <link>//localhost:1313/posts/git/getting-started-with-git/</link>
       <pubDate>Fri, 07 Jun 2024 14:59:54 +0530</pubDate>
-      <guid>mhtnlab.com/posts/git/getting-started-with-git/</guid>
+      <guid>//localhost:1313/posts/git/getting-started-with-git/</guid>
       <description>Next →&#xA;You know how you&amp;rsquo;re in the coding groove, banging out lines like a maestro, but then you hit a snag and everything goes sideways?</description>
     </item>
   </channel>

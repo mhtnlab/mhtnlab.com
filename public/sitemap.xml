@@ -2,166 +2,166 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>mhtnlab.com/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2025-06-20T13:53:07+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/consumer-electronics/</loc>
+    <loc>//localhost:1313/tags/consumer-electronics/</loc>
     <lastmod>2025-06-20T13:53:07+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/economics/</loc>
+    <loc>//localhost:1313/tags/economics/</loc>
     <lastmod>2025-06-20T13:53:07+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-06-20T13:53:07+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2025-06-20T13:53:07+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/categories/reflections/</loc>
+    <loc>//localhost:1313/categories/reflections/</loc>
     <lastmod>2025-06-20T13:53:07+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/right-to-repair/</loc>
+    <loc>//localhost:1313/tags/right-to-repair/</loc>
     <lastmod>2025-06-20T13:53:07+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2025-06-20T13:53:07+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/tariffs/</loc>
+    <loc>//localhost:1313/tags/tariffs/</loc>
     <lastmod>2025-06-20T13:53:07+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/posts/reflections/tariffs-consumer-electronics-and-right-to-repair/</loc>
+    <loc>//localhost:1313/posts/reflections/tariffs-consumer-electronics-and-right-to-repair/</loc>
     <lastmod>2025-06-20T13:53:07+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/authentication/</loc>
+    <loc>//localhost:1313/tags/authentication/</loc>
     <lastmod>2025-06-03T01:27:10+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/categories/comms/</loc>
+    <loc>//localhost:1313/categories/comms/</loc>
     <lastmod>2025-06-03T01:27:10+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/cpe/</loc>
+    <loc>//localhost:1313/tags/cpe/</loc>
     <lastmod>2025-06-03T01:27:10+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/equipment/</loc>
+    <loc>//localhost:1313/tags/equipment/</loc>
     <lastmod>2025-06-03T01:27:10+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/infrastructure/</loc>
+    <loc>//localhost:1313/tags/infrastructure/</loc>
     <lastmod>2025-06-03T01:27:10+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/networks/</loc>
+    <loc>//localhost:1313/tags/networks/</loc>
     <lastmod>2025-06-03T01:27:10+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/radius/</loc>
+    <loc>//localhost:1313/tags/radius/</loc>
     <lastmod>2025-06-03T01:27:10+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/synchronization/</loc>
+    <loc>//localhost:1313/tags/synchronization/</loc>
     <lastmod>2025-06-03T01:27:10+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/posts/communications/the-infrastructure-that-enables-the-internet/</loc>
+    <loc>//localhost:1313/posts/communications/the-infrastructure-that-enables-the-internet/</loc>
     <lastmod>2025-06-03T01:27:10+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/the-internet/</loc>
+    <loc>//localhost:1313/tags/the-internet/</loc>
     <lastmod>2025-06-03T01:27:10+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/ue/</loc>
+    <loc>//localhost:1313/tags/ue/</loc>
     <lastmod>2025-06-03T01:27:10+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/communications/</loc>
+    <loc>//localhost:1313/tags/communications/</loc>
     <lastmod>2025-05-05T16:38:10+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/posts/communications/communications-networks-and-the-internet/</loc>
+    <loc>//localhost:1313/posts/communications/communications-networks-and-the-internet/</loc>
     <lastmod>2025-05-05T16:38:10+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/computer/</loc>
+    <loc>//localhost:1313/tags/computer/</loc>
     <lastmod>2025-05-05T16:38:10+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/categories/featured/</loc>
+    <loc>//localhost:1313/categories/featured/</loc>
     <lastmod>2025-05-05T16:38:10+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/telco/</loc>
+    <loc>//localhost:1313/tags/telco/</loc>
     <lastmod>2025-05-05T16:38:10+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</loc>
+    <loc>//localhost:1313/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</loc>
     <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/hardware/</loc>
+    <loc>//localhost:1313/tags/hardware/</loc>
     <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/logic-circuits/</loc>
+    <loc>//localhost:1313/tags/logic-circuits/</loc>
     <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/logic-gates/</loc>
+    <loc>//localhost:1313/tags/logic-gates/</loc>
     <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/roppers/</loc>
+    <loc>//localhost:1313/tags/roppers/</loc>
     <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/segmented-lcd/</loc>
+    <loc>//localhost:1313/tags/segmented-lcd/</loc>
     <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/side-channel/</loc>
+    <loc>//localhost:1313/tags/side-channel/</loc>
     <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/side-effects/</loc>
+    <loc>//localhost:1313/tags/side-effects/</loc>
     <lastmod>2024-12-03T22:25:57+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/posts/reflections/black-screens-broken-computers-virtual-machines-and-gpu-passthrough/</loc>
+    <loc>//localhost:1313/posts/reflections/black-screens-broken-computers-virtual-machines-and-gpu-passthrough/</loc>
     <lastmod>2024-11-25T21:42:46+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/gpu-passthrough/</loc>
+    <loc>//localhost:1313/tags/gpu-passthrough/</loc>
     <lastmod>2024-11-25T21:42:46+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/initramfs/</loc>
+    <loc>//localhost:1313/tags/initramfs/</loc>
     <lastmod>2024-11-25T21:42:46+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/kernelstub/</loc>
+    <loc>//localhost:1313/tags/kernelstub/</loc>
     <lastmod>2024-11-25T21:42:46+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/linux-kernel/</loc>
+    <loc>//localhost:1313/tags/linux-kernel/</loc>
     <lastmod>2024-11-25T21:42:46+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/virtual-machines/</loc>
+    <loc>//localhost:1313/tags/virtual-machines/</loc>
     <lastmod>2024-11-25T21:42:46+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/posts/reflections/you-are-a-network/</loc>
+    <loc>//localhost:1313/posts/reflections/you-are-a-network/</loc>
     <lastmod>2024-09-03T01:38:23+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/posts/reflections/on-learning/</loc>
+    <loc>//localhost:1313/posts/reflections/on-learning/</loc>
     <lastmod>2024-08-17T21:50:13+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/posts/git/creating-your-first-git-repository/</loc>
+    <loc>//localhost:1313/posts/git/creating-your-first-git-repository/</loc>
     <lastmod>2024-06-07T23:11:39+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/git/</loc>
+    <loc>//localhost:1313/tags/git/</loc>
     <lastmod>2024-06-07T23:11:39+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/categories/git/</loc>
+    <loc>//localhost:1313/categories/git/</loc>
     <lastmod>2024-06-07T23:11:39+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/repository/</loc>
+    <loc>//localhost:1313/tags/repository/</loc>
     <lastmod>2024-06-07T23:11:39+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/software-development/</loc>
+    <loc>//localhost:1313/tags/software-development/</loc>
     <lastmod>2024-06-07T23:11:39+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/source-code-management/</loc>
+    <loc>//localhost:1313/tags/source-code-management/</loc>
     <lastmod>2024-06-07T23:11:39+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/version-control/</loc>
+    <loc>//localhost:1313/tags/version-control/</loc>
     <lastmod>2024-06-07T23:11:39+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/posts/git/setting-it-all-up/</loc>
+    <loc>//localhost:1313/posts/git/setting-it-all-up/</loc>
     <lastmod>2024-06-07T18:37:54+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/posts/git/getting-started-with-git/</loc>
+    <loc>//localhost:1313/posts/git/getting-started-with-git/</loc>
     <lastmod>2024-06-07T14:59:54+05:30</lastmod>
   </url><url>
-    <loc>mhtnlab.com/tags/hero/</loc>
+    <loc>//localhost:1313/tags/hero/</loc>
     <lastmod>2024-06-05T20:37:29+07:00</lastmod>
   </url><url>
-    <loc>mhtnlab.com/categories/welcome/</loc>
+    <loc>//localhost:1313/categories/welcome/</loc>
     <lastmod>2024-06-05T20:37:29+07:00</lastmod>
   </url><url>
-    <loc>mhtnlab.com/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2024-06-05T20:37:29+07:00</lastmod>
   </url>
 </urlset>

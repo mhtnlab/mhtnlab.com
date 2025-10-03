@@ -13,8 +13,6 @@ draft: false
 
 [&larr; prev](/posts/communications/communications-networks-and-the-internet/)
 
-**DISCLAIMER: THIS ARTICLE IS STILL ACTIVELY BEING WORKED ON**
-
 There are a vast number of options for connecting to the internet; however, the basic premise remains the same: your end devices communicate with your ISP’s network, which in turn communicates with other providers’ networks. Oversimplified, but this is the basis of the internet.
 
 ### A bit of Backstory
@@ -63,3 +61,18 @@ Modern connections can take place over a multitude of media. They can be fixed c
   4. Fixed Wireless
 - Mobile connections
   1. Mobile Broadband
+  2. SIM Connections
+- Satellite Connections
+
+
+&#42; **FTTC, FTTN, and FTTB connections aren't exactly what you would typically refer to as fibre connections, they are hybrid connections. These connections combine fibre and copper connections in some proportion of fibre to copper. You'll notice that the copper connections typically start after your ISPs exchange and lead to the customer premises.**
+
+** **Satellite connections may either be fixed or mobile connections.**
+
+_If you want to get technical, all connections are hybrid connections, at some point analogue data is converted to digital and communication media change._
+
+I'll cover how these connections work in the next of this series. 
+
+Stay tuned for more.
+
+Stay awesome/DFTBA!

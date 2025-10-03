@@ -2,248 +2,248 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MHTN Lab</title>
-    <link>mhtnlab.com/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on MHTN Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 13:53:07 +0530</lastBuildDate>
-    <atom:link href="mhtnlab.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>consumer electronics</title>
-      <link>mhtnlab.com/tags/consumer-electronics/</link>
-      <pubDate>Fri, 20 Jun 2025 13:53:07 +0530</pubDate>
-      <guid>mhtnlab.com/tags/consumer-electronics/</guid>
+      <title>Consumer Electronics</title>
+      <link>//localhost:1313/tags/consumer-electronics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/consumer-electronics/</guid>
       <description></description>
     </item>
     <item>
-      <title>economics</title>
-      <link>mhtnlab.com/tags/economics/</link>
-      <pubDate>Fri, 20 Jun 2025 13:53:07 +0530</pubDate>
-      <guid>mhtnlab.com/tags/economics/</guid>
+      <title>Economics</title>
+      <link>//localhost:1313/tags/economics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/economics/</guid>
       <description></description>
     </item>
     <item>
-      <title>right to repair</title>
-      <link>mhtnlab.com/tags/right-to-repair/</link>
-      <pubDate>Fri, 20 Jun 2025 13:53:07 +0530</pubDate>
-      <guid>mhtnlab.com/tags/right-to-repair/</guid>
+      <title>Right to Repair</title>
+      <link>//localhost:1313/tags/right-to-repair/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/right-to-repair/</guid>
       <description></description>
     </item>
     <item>
-      <title>tariffs</title>
-      <link>mhtnlab.com/tags/tariffs/</link>
-      <pubDate>Fri, 20 Jun 2025 13:53:07 +0530</pubDate>
-      <guid>mhtnlab.com/tags/tariffs/</guid>
+      <title>Tariffs</title>
+      <link>//localhost:1313/tags/tariffs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/tariffs/</guid>
       <description></description>
     </item>
     <item>
-      <title>authentication</title>
-      <link>mhtnlab.com/tags/authentication/</link>
-      <pubDate>Tue, 03 Jun 2025 01:27:10 +0530</pubDate>
-      <guid>mhtnlab.com/tags/authentication/</guid>
+      <title>Authentication</title>
+      <link>//localhost:1313/tags/authentication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/authentication/</guid>
       <description></description>
     </item>
     <item>
       <title>CPE</title>
-      <link>mhtnlab.com/tags/cpe/</link>
-      <pubDate>Tue, 03 Jun 2025 01:27:10 +0530</pubDate>
-      <guid>mhtnlab.com/tags/cpe/</guid>
+      <link>//localhost:1313/tags/cpe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/cpe/</guid>
       <description></description>
     </item>
     <item>
-      <title>equipment</title>
-      <link>mhtnlab.com/tags/equipment/</link>
-      <pubDate>Tue, 03 Jun 2025 01:27:10 +0530</pubDate>
-      <guid>mhtnlab.com/tags/equipment/</guid>
+      <title>Equipment</title>
+      <link>//localhost:1313/tags/equipment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/equipment/</guid>
       <description></description>
     </item>
     <item>
-      <title>infrastructure</title>
-      <link>mhtnlab.com/tags/infrastructure/</link>
-      <pubDate>Tue, 03 Jun 2025 01:27:10 +0530</pubDate>
-      <guid>mhtnlab.com/tags/infrastructure/</guid>
+      <title>Infrastructure</title>
+      <link>//localhost:1313/tags/infrastructure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/infrastructure/</guid>
       <description></description>
     </item>
     <item>
-      <title>networks</title>
-      <link>mhtnlab.com/tags/networks/</link>
-      <pubDate>Tue, 03 Jun 2025 01:27:10 +0530</pubDate>
-      <guid>mhtnlab.com/tags/networks/</guid>
+      <title>Networks</title>
+      <link>//localhost:1313/tags/networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/networks/</guid>
       <description></description>
     </item>
     <item>
-      <title>radius</title>
-      <link>mhtnlab.com/tags/radius/</link>
-      <pubDate>Tue, 03 Jun 2025 01:27:10 +0530</pubDate>
-      <guid>mhtnlab.com/tags/radius/</guid>
+      <title>Radius</title>
+      <link>//localhost:1313/tags/radius/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/radius/</guid>
       <description></description>
     </item>
     <item>
-      <title>synchronization</title>
-      <link>mhtnlab.com/tags/synchronization/</link>
-      <pubDate>Tue, 03 Jun 2025 01:27:10 +0530</pubDate>
-      <guid>mhtnlab.com/tags/synchronization/</guid>
+      <title>Synchronization</title>
+      <link>//localhost:1313/tags/synchronization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/synchronization/</guid>
       <description></description>
     </item>
     <item>
-      <title>the-internet</title>
-      <link>mhtnlab.com/tags/the-internet/</link>
-      <pubDate>Tue, 03 Jun 2025 01:27:10 +0530</pubDate>
-      <guid>mhtnlab.com/tags/the-internet/</guid>
+      <title>The-Internet</title>
+      <link>//localhost:1313/tags/the-internet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/the-internet/</guid>
       <description></description>
     </item>
     <item>
       <title>UE</title>
-      <link>mhtnlab.com/tags/ue/</link>
-      <pubDate>Tue, 03 Jun 2025 01:27:10 +0530</pubDate>
-      <guid>mhtnlab.com/tags/ue/</guid>
+      <link>//localhost:1313/tags/ue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/ue/</guid>
       <description></description>
     </item>
     <item>
-      <title>communications</title>
-      <link>mhtnlab.com/tags/communications/</link>
-      <pubDate>Mon, 05 May 2025 16:38:10 +0530</pubDate>
-      <guid>mhtnlab.com/tags/communications/</guid>
+      <title>Communications</title>
+      <link>//localhost:1313/tags/communications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/communications/</guid>
       <description></description>
     </item>
     <item>
-      <title>computer</title>
-      <link>mhtnlab.com/tags/computer/</link>
-      <pubDate>Mon, 05 May 2025 16:38:10 +0530</pubDate>
-      <guid>mhtnlab.com/tags/computer/</guid>
+      <title>Computer</title>
+      <link>//localhost:1313/tags/computer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/computer/</guid>
       <description></description>
     </item>
     <item>
-      <title>telco</title>
-      <link>mhtnlab.com/tags/telco/</link>
-      <pubDate>Mon, 05 May 2025 16:38:10 +0530</pubDate>
-      <guid>mhtnlab.com/tags/telco/</guid>
+      <title>Telco</title>
+      <link>//localhost:1313/tags/telco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/telco/</guid>
       <description></description>
     </item>
     <item>
-      <title>hardware</title>
-      <link>mhtnlab.com/tags/hardware/</link>
-      <pubDate>Tue, 03 Dec 2024 22:25:57 +0530</pubDate>
-      <guid>mhtnlab.com/tags/hardware/</guid>
+      <title>Hardware</title>
+      <link>//localhost:1313/tags/hardware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/hardware/</guid>
       <description></description>
     </item>
     <item>
-      <title>logic-circuits</title>
-      <link>mhtnlab.com/tags/logic-circuits/</link>
-      <pubDate>Tue, 03 Dec 2024 22:25:57 +0530</pubDate>
-      <guid>mhtnlab.com/tags/logic-circuits/</guid>
+      <title>Logic-Circuits</title>
+      <link>//localhost:1313/tags/logic-circuits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/logic-circuits/</guid>
       <description></description>
     </item>
     <item>
-      <title>logic-gates</title>
-      <link>mhtnlab.com/tags/logic-gates/</link>
-      <pubDate>Tue, 03 Dec 2024 22:25:57 +0530</pubDate>
-      <guid>mhtnlab.com/tags/logic-gates/</guid>
+      <title>Logic-Gates</title>
+      <link>//localhost:1313/tags/logic-gates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/logic-gates/</guid>
       <description></description>
     </item>
     <item>
-      <title>roppers</title>
-      <link>mhtnlab.com/tags/roppers/</link>
-      <pubDate>Tue, 03 Dec 2024 22:25:57 +0530</pubDate>
-      <guid>mhtnlab.com/tags/roppers/</guid>
+      <title>Roppers</title>
+      <link>//localhost:1313/tags/roppers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/roppers/</guid>
       <description></description>
     </item>
     <item>
-      <title>segmented-lcd</title>
-      <link>mhtnlab.com/tags/segmented-lcd/</link>
-      <pubDate>Tue, 03 Dec 2024 22:25:57 +0530</pubDate>
-      <guid>mhtnlab.com/tags/segmented-lcd/</guid>
+      <title>Segmented-Lcd</title>
+      <link>//localhost:1313/tags/segmented-lcd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/segmented-lcd/</guid>
       <description></description>
     </item>
     <item>
-      <title>side-channel</title>
-      <link>mhtnlab.com/tags/side-channel/</link>
-      <pubDate>Tue, 03 Dec 2024 22:25:57 +0530</pubDate>
-      <guid>mhtnlab.com/tags/side-channel/</guid>
+      <title>Side-Channel</title>
+      <link>//localhost:1313/tags/side-channel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/side-channel/</guid>
       <description></description>
     </item>
     <item>
-      <title>side-effects</title>
-      <link>mhtnlab.com/tags/side-effects/</link>
-      <pubDate>Tue, 03 Dec 2024 22:25:57 +0530</pubDate>
-      <guid>mhtnlab.com/tags/side-effects/</guid>
+      <title>Side-Effects</title>
+      <link>//localhost:1313/tags/side-effects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/side-effects/</guid>
       <description></description>
     </item>
     <item>
-      <title>gpu passthrough</title>
-      <link>mhtnlab.com/tags/gpu-passthrough/</link>
-      <pubDate>Mon, 25 Nov 2024 21:42:46 +0530</pubDate>
-      <guid>mhtnlab.com/tags/gpu-passthrough/</guid>
+      <title>Gpu Passthrough</title>
+      <link>//localhost:1313/tags/gpu-passthrough/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/gpu-passthrough/</guid>
       <description></description>
     </item>
     <item>
-      <title>initramfs</title>
-      <link>mhtnlab.com/tags/initramfs/</link>
-      <pubDate>Mon, 25 Nov 2024 21:42:46 +0530</pubDate>
-      <guid>mhtnlab.com/tags/initramfs/</guid>
+      <title>Initramfs</title>
+      <link>//localhost:1313/tags/initramfs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/initramfs/</guid>
       <description></description>
     </item>
     <item>
-      <title>kernelstub</title>
-      <link>mhtnlab.com/tags/kernelstub/</link>
-      <pubDate>Mon, 25 Nov 2024 21:42:46 +0530</pubDate>
-      <guid>mhtnlab.com/tags/kernelstub/</guid>
+      <title>Kernelstub</title>
+      <link>//localhost:1313/tags/kernelstub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/kernelstub/</guid>
       <description></description>
     </item>
     <item>
-      <title>linux kernel</title>
-      <link>mhtnlab.com/tags/linux-kernel/</link>
-      <pubDate>Mon, 25 Nov 2024 21:42:46 +0530</pubDate>
-      <guid>mhtnlab.com/tags/linux-kernel/</guid>
+      <title>Linux Kernel</title>
+      <link>//localhost:1313/tags/linux-kernel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/linux-kernel/</guid>
       <description></description>
     </item>
     <item>
-      <title>virtual machines</title>
-      <link>mhtnlab.com/tags/virtual-machines/</link>
-      <pubDate>Mon, 25 Nov 2024 21:42:46 +0530</pubDate>
-      <guid>mhtnlab.com/tags/virtual-machines/</guid>
+      <title>Virtual Machines</title>
+      <link>//localhost:1313/tags/virtual-machines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/virtual-machines/</guid>
       <description></description>
     </item>
     <item>
-      <title>git</title>
-      <link>mhtnlab.com/tags/git/</link>
-      <pubDate>Fri, 07 Jun 2024 23:11:39 +0530</pubDate>
-      <guid>mhtnlab.com/tags/git/</guid>
+      <title>Git</title>
+      <link>//localhost:1313/tags/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/git/</guid>
       <description></description>
     </item>
     <item>
-      <title>repository</title>
-      <link>mhtnlab.com/tags/repository/</link>
-      <pubDate>Fri, 07 Jun 2024 23:11:39 +0530</pubDate>
-      <guid>mhtnlab.com/tags/repository/</guid>
+      <title>Repository</title>
+      <link>//localhost:1313/tags/repository/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/repository/</guid>
       <description></description>
     </item>
     <item>
-      <title>software development</title>
-      <link>mhtnlab.com/tags/software-development/</link>
-      <pubDate>Fri, 07 Jun 2024 23:11:39 +0530</pubDate>
-      <guid>mhtnlab.com/tags/software-development/</guid>
+      <title>Software Development</title>
+      <link>//localhost:1313/tags/software-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/software-development/</guid>
       <description></description>
     </item>
     <item>
-      <title>source code management</title>
-      <link>mhtnlab.com/tags/source-code-management/</link>
-      <pubDate>Fri, 07 Jun 2024 23:11:39 +0530</pubDate>
-      <guid>mhtnlab.com/tags/source-code-management/</guid>
+      <title>Source Code Management</title>
+      <link>//localhost:1313/tags/source-code-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/source-code-management/</guid>
       <description></description>
     </item>
     <item>
-      <title>version control</title>
-      <link>mhtnlab.com/tags/version-control/</link>
-      <pubDate>Fri, 07 Jun 2024 23:11:39 +0530</pubDate>
-      <guid>mhtnlab.com/tags/version-control/</guid>
+      <title>Version Control</title>
+      <link>//localhost:1313/tags/version-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/version-control/</guid>
       <description></description>
     </item>
     <item>
-      <title>hero</title>
-      <link>mhtnlab.com/tags/hero/</link>
-      <pubDate>Wed, 05 Jun 2024 20:37:29 +0700</pubDate>
-      <guid>mhtnlab.com/tags/hero/</guid>
+      <title>Hero</title>
+      <link>//localhost:1313/tags/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/hero/</guid>
       <description></description>
     </item>
   </channel>

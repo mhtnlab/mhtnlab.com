@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>segmented-lcd on MHTN Lab</title>
-    <link>mhtnlab.com/tags/segmented-lcd/</link>
-    <description>Recent content in segmented-lcd on MHTN Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Segmented-Lcd on MHTN Lab</title>
+    <link>//localhost:1313/tags/segmented-lcd/</link>
+    <description>Recent content in Segmented-Lcd on MHTN Lab</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Dec 2024 22:25:57 +0530</lastBuildDate>
-    <atom:link href="mhtnlab.com/tags/segmented-lcd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/segmented-lcd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Calulator Display Segments, Side Effects, and Side Channel Attacks</title>
-      <link>mhtnlab.com/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</link>
+      <link>//localhost:1313/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</link>
       <pubDate>Tue, 03 Dec 2024 22:25:57 +0530</pubDate>
-      <guid>mhtnlab.com/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</guid>
+      <guid>//localhost:1313/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</guid>
       <description>This week, it happened. Just like clockwork the gears of my mind began to turn. Side channels, a concept once all too unfamiliar finally revelead its secrets to me, unravelling in all its beauty, while revisiting the basics of computer hardware.</description>
     </item>
   </channel>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>economics on MHTN Lab</title>
-    <link>mhtnlab.com/tags/economics/</link>
-    <description>Recent content in economics on MHTN Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Economics on MHTN Lab</title>
+    <link>//localhost:1313/tags/economics/</link>
+    <description>Recent content in Economics on MHTN Lab</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 13:53:07 +0530</lastBuildDate>
-    <atom:link href="mhtnlab.com/tags/economics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/economics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tariffs, Consumer Electronics, and Right to Repair</title>
-      <link>mhtnlab.com/posts/reflections/tariffs-consumer-electronics-and-right-to-repair/</link>
+      <link>//localhost:1313/posts/reflections/tariffs-consumer-electronics-and-right-to-repair/</link>
       <pubDate>Fri, 20 Jun 2025 13:53:07 +0530</pubDate>
-      <guid>mhtnlab.com/posts/reflections/tariffs-consumer-electronics-and-right-to-repair/</guid>
+      <guid>//localhost:1313/posts/reflections/tariffs-consumer-electronics-and-right-to-repair/</guid>
       <description>Disclaimer I wrote this to promote consumer choice, right-to-repair, and our right to ownership, and of course, for college.&#xA;The Article According to the International Trade Administration (International Trade Administration, n.</description>
     </item>
   </channel>

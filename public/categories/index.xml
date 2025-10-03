@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on MHTN Lab</title>
-    <link>mhtnlab.com/categories/</link>
+    <link>//localhost:1313/categories/</link>
     <description>Recent content in Categories on MHTN Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 13:53:07 +0530</lastBuildDate>
-    <atom:link href="mhtnlab.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>reflections</title>
-      <link>mhtnlab.com/categories/reflections/</link>
-      <pubDate>Fri, 20 Jun 2025 13:53:07 +0530</pubDate>
-      <guid>mhtnlab.com/categories/reflections/</guid>
+      <title>Reflections</title>
+      <link>//localhost:1313/categories/reflections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/reflections/</guid>
       <description></description>
     </item>
     <item>
-      <title>comms</title>
-      <link>mhtnlab.com/categories/comms/</link>
-      <pubDate>Tue, 03 Jun 2025 01:27:10 +0530</pubDate>
-      <guid>mhtnlab.com/categories/comms/</guid>
+      <title>Comms</title>
+      <link>//localhost:1313/categories/comms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/comms/</guid>
       <description></description>
     </item>
     <item>
-      <title>featured</title>
-      <link>mhtnlab.com/categories/featured/</link>
-      <pubDate>Mon, 05 May 2025 16:38:10 +0530</pubDate>
-      <guid>mhtnlab.com/categories/featured/</guid>
+      <title>Featured</title>
+      <link>//localhost:1313/categories/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/featured/</guid>
       <description></description>
     </item>
     <item>
-      <title>git</title>
-      <link>mhtnlab.com/categories/git/</link>
-      <pubDate>Fri, 07 Jun 2024 23:11:39 +0530</pubDate>
-      <guid>mhtnlab.com/categories/git/</guid>
+      <title>Git</title>
+      <link>//localhost:1313/categories/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/git/</guid>
       <description></description>
     </item>
     <item>
-      <title>welcome</title>
-      <link>mhtnlab.com/categories/welcome/</link>
-      <pubDate>Wed, 05 Jun 2024 20:37:29 +0700</pubDate>
-      <guid>mhtnlab.com/categories/welcome/</guid>
+      <title>Welcome</title>
+      <link>//localhost:1313/categories/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/welcome/</guid>
       <description></description>
     </item>
   </channel>

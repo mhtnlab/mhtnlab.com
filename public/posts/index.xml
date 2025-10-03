@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on MHTN Lab</title>
-    <link>mhtnlab.com/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on MHTN Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 13:53:07 +0530</lastBuildDate>
-    <atom:link href="mhtnlab.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tariffs, Consumer Electronics, and Right to Repair</title>
-      <link>mhtnlab.com/posts/reflections/tariffs-consumer-electronics-and-right-to-repair/</link>
+      <link>//localhost:1313/posts/reflections/tariffs-consumer-electronics-and-right-to-repair/</link>
       <pubDate>Fri, 20 Jun 2025 13:53:07 +0530</pubDate>
-      <guid>mhtnlab.com/posts/reflections/tariffs-consumer-electronics-and-right-to-repair/</guid>
+      <guid>//localhost:1313/posts/reflections/tariffs-consumer-electronics-and-right-to-repair/</guid>
       <description>Disclaimer I wrote this to promote consumer choice, right-to-repair, and our right to ownership, and of course, for college.&#xA;The Article According to the International Trade Administration (International Trade Administration, n.</description>
     </item>
     <item>
       <title>The Infrastructure that enables the Internet</title>
-      <link>mhtnlab.com/posts/communications/the-infrastructure-that-enables-the-internet/</link>
+      <link>//localhost:1313/posts/communications/the-infrastructure-that-enables-the-internet/</link>
       <pubDate>Tue, 03 Jun 2025 01:27:10 +0530</pubDate>
-      <guid>mhtnlab.com/posts/communications/the-infrastructure-that-enables-the-internet/</guid>
-      <description>← prev&#xA;DISCLAIMER: THIS ARTICLE IS STILL ACTIVELY BEING WORKED ON&#xA;There are a vast number of options for connecting to the internet; however, the basic premise remains the same: your end devices communicate with your ISP’s network, which in turn communicates with other providers’ networks.</description>
+      <guid>//localhost:1313/posts/communications/the-infrastructure-that-enables-the-internet/</guid>
+      <description>← prev&#xA;There are a vast number of options for connecting to the internet; however, the basic premise remains the same: your end devices communicate with your ISP’s network, which in turn communicates with other providers’ networks.</description>
     </item>
     <item>
       <title>Communications, Networks, and the Internet</title>
-      <link>mhtnlab.com/posts/communications/communications-networks-and-the-internet/</link>
+      <link>//localhost:1313/posts/communications/communications-networks-and-the-internet/</link>
       <pubDate>Mon, 05 May 2025 16:38:10 +0530</pubDate>
-      <guid>mhtnlab.com/posts/communications/communications-networks-and-the-internet/</guid>
+      <guid>//localhost:1313/posts/communications/communications-networks-and-the-internet/</guid>
       <description>Next →&#xA;Ever wonder how the internet works? Or where it all started?&#xA;Well, I&amp;rsquo;m not going to explain it to you&amp;hellip;</description>
     </item>
     <item>
       <title>Calulator Display Segments, Side Effects, and Side Channel Attacks</title>
-      <link>mhtnlab.com/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</link>
+      <link>//localhost:1313/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</link>
       <pubDate>Tue, 03 Dec 2024 22:25:57 +0530</pubDate>
-      <guid>mhtnlab.com/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</guid>
+      <guid>//localhost:1313/posts/reflections/calulator-display-segments-side-effects-and-side-channel-attacks/</guid>
       <description>This week, it happened. Just like clockwork the gears of my mind began to turn. Side channels, a concept once all too unfamiliar finally revelead its secrets to me, unravelling in all its beauty, while revisiting the basics of computer hardware.</description>
     </item>
     <item>
       <title>Black Screens, Broken Computers, Virtual Machines and GPU Passthrough</title>
-      <link>mhtnlab.com/posts/reflections/black-screens-broken-computers-virtual-machines-and-gpu-passthrough/</link>
+      <link>//localhost:1313/posts/reflections/black-screens-broken-computers-virtual-machines-and-gpu-passthrough/</link>
       <pubDate>Mon, 25 Nov 2024 21:42:46 +0530</pubDate>
-      <guid>mhtnlab.com/posts/reflections/black-screens-broken-computers-virtual-machines-and-gpu-passthrough/</guid>
+      <guid>//localhost:1313/posts/reflections/black-screens-broken-computers-virtual-machines-and-gpu-passthrough/</guid>
       <description>While learning about virtual machines, I came across an interesting concept - virtual machine hardening. This practice involves measures to protect virtual machines from threats by:</description>
     </item>
     <item>
       <title>You are a network</title>
-      <link>mhtnlab.com/posts/reflections/you-are-a-network/</link>
+      <link>//localhost:1313/posts/reflections/you-are-a-network/</link>
       <pubDate>Tue, 03 Sep 2024 01:38:23 +0530</pubDate>
-      <guid>mhtnlab.com/posts/reflections/you-are-a-network/</guid>
+      <guid>//localhost:1313/posts/reflections/you-are-a-network/</guid>
       <description>Introduction Your entire body is a large system of multiple networks of subsystems that work together to keep you alive.</description>
     </item>
     <item>
       <title>On Learning</title>
-      <link>mhtnlab.com/posts/reflections/on-learning/</link>
+      <link>//localhost:1313/posts/reflections/on-learning/</link>
       <pubDate>Sat, 17 Aug 2024 21:50:13 +0530</pubDate>
-      <guid>mhtnlab.com/posts/reflections/on-learning/</guid>
+      <guid>//localhost:1313/posts/reflections/on-learning/</guid>
       <description>Preface Hey, you! Yes, you- I&amp;rsquo;m doing something new. You&amp;rsquo;ve stumbled upon my first public journal entry. I&amp;rsquo;m not sure what prompted me to start writing out my thoughts - I&amp;rsquo;m not even sure I will continue to write them down.</description>
     </item>
     <item>
       <title>Creating Your First Git Repository</title>
-      <link>mhtnlab.com/posts/git/creating-your-first-git-repository/</link>
+      <link>//localhost:1313/posts/git/creating-your-first-git-repository/</link>
       <pubDate>Fri, 07 Jun 2024 23:11:39 +0530</pubDate>
-      <guid>mhtnlab.com/posts/git/creating-your-first-git-repository/</guid>
+      <guid>//localhost:1313/posts/git/creating-your-first-git-repository/</guid>
       <description>← Prev&#xA;Alright, alright, alright! Now that you&amp;rsquo;ve got Git set up, it&amp;rsquo;s time to git gud (*Cue sting*).&#xA;You&amp;rsquo;re well on your way to becoming a dev</description>
     </item>
     <item>
       <title>Setting it all up</title>
-      <link>mhtnlab.com/posts/git/setting-it-all-up/</link>
+      <link>//localhost:1313/posts/git/setting-it-all-up/</link>
       <pubDate>Fri, 07 Jun 2024 18:37:54 +0530</pubDate>
-      <guid>mhtnlab.com/posts/git/setting-it-all-up/</guid>
+      <guid>//localhost:1313/posts/git/setting-it-all-up/</guid>
       <description>← Prev&#xA;Most people skip the configurations, but you - You aren&amp;rsquo;t most people. You want to be a hackerman extrodinaire.</description>
     </item>
     <item>
       <title>Getting Started with Git</title>
-      <link>mhtnlab.com/posts/git/getting-started-with-git/</link>
+      <link>//localhost:1313/posts/git/getting-started-with-git/</link>
       <pubDate>Fri, 07 Jun 2024 14:59:54 +0530</pubDate>
-      <guid>mhtnlab.com/posts/git/getting-started-with-git/</guid>
+      <guid>//localhost:1313/posts/git/getting-started-with-git/</guid>
       <description>Next →&#xA;You know how you&amp;rsquo;re in the coding groove, banging out lines like a maestro, but then you hit a snag and everything goes sideways?</description>
     </item>
   </channel>
