@@ -2,8 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/categories/bytes/</loc>
+    <lastmod>2025-10-04T17:58:00+05:30</lastmod>
+  </url><url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2025-06-20T13:53:07+05:30</lastmod>
+    <lastmod>2025-10-04T17:58:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/cia-triad/</loc>
+    <lastmod>2025-10-04T17:58:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/ciana/</loc>
+    <lastmod>2025-10-04T17:58:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/cyber-security/</loc>
+    <lastmod>2025-10-04T17:58:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/infosec/</loc>
+    <lastmod>2025-10-04T17:58:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-10-04T17:58:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2025-10-04T17:58:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/security/</loc>
+    <lastmod>2025-10-04T17:58:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-10-04T17:58:00+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/security/bytes/confidentiality-integrity-and-authenticity/</loc>
+    <lastmod>2025-10-04T17:58:00+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/consumer-electronics/</loc>
     <lastmod>2025-06-20T13:53:07+05:30</lastmod>
@@ -11,19 +41,10 @@
     <loc>//localhost:1313/tags/economics/</loc>
     <lastmod>2025-06-20T13:53:07+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2025-06-20T13:53:07+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-06-20T13:53:07+05:30</lastmod>
-  </url><url>
     <loc>//localhost:1313/categories/reflections/</loc>
     <lastmod>2025-06-20T13:53:07+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/right-to-repair/</loc>
-    <lastmod>2025-06-20T13:53:07+05:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
     <lastmod>2025-06-20T13:53:07+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/tariffs/</loc>

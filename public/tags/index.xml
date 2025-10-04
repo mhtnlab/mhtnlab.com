@@ -6,8 +6,36 @@
     <description>Recent content in Tags on MHTN Lab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 13:53:07 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 17:58:00 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CIA-Triad</title>
+      <link>//localhost:1313/tags/cia-triad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/cia-triad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CIANA</title>
+      <link>//localhost:1313/tags/ciana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/ciana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber-Security</title>
+      <link>//localhost:1313/tags/cyber-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/cyber-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infosec</title>
+      <link>//localhost:1313/tags/infosec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/infosec/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Consumer Electronics</title>
       <link>//localhost:1313/tags/consumer-electronics/</link>
