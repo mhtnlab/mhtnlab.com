@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+<div class="py-14">
+
+	<div class="mb-14">	
+      <h1 id="title" class="text-4xl font-bold leading-normal">Uh oh, that's a 404!</h1>
+
+    <div class="py-14">
+		    <img class="rounded-3xl" src="images/moon-trawling.jpg" alt="{{ .Title }}">
+    </div>
+
+    <div class="py-14">
+        <p class="text-2xl">You went off the edge.</p>
+	  </div>
+
+    <div class="flex flex-wrap space-y-6 mb-4">
+        <div class="w-full md:w-3/5 flex flex-col space-y-4 md:pr-8 lg:pr-10">
+            <a class="text-left italic" href="..">Go home?</a>
+        </div>
+        <div class="self-center flex flex-col w-full md:w-2/5">
+            <a class="text-right italic" href="/donate">Donate</a>
+        </div>
+    </div>
+
+	</div>
+</div>
+
+{{ end }}
