@@ -24,7 +24,8 @@ Let us start by configuring your git user.
 
 - If you're on windows open git bash.
 - If you're on macOS open your terminal app, you can use spotlight to search for it (makes things a lot easier).
-- If you're on linux open a shell 
+- If you're on linux open a shell (do this by opening your terminal emulator)
+- If you're on BSD you'll also want a shell
 
 Although... If you're on linux, I suppose you already know what to do, however, keep in mind that this tutorial is for beginners. I want to make linux as accessible as possible to new users.
 
@@ -118,6 +119,25 @@ Now start another terminal window without admin privileges and run the following
 ssh-add c:/Users/YOU/.ssh/id_ed25519
 ```
 
-That's it you're done. If you're interested in reading more check out the documentation on [GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+Now that you've set up your access token with SSH, it's finally time to go pro. You'll find that using GPG to sign off on your code/changes/git commit is typically the way to go when working as a dev. It's a pre-requisite most employers look for.
+
+### GPG Keys
+
+GPG also helps maintain the integrity of your code. I have a blog post about the [CIA triad](), if you're interested in learning more about confidentiality, integrity, and avavailabilty in an InfoSec/Cyber Security context, but that's enough of that - let's geet back to helping you set up your first GPG Key.
+
+At this moment in time, I'll only be supporting the UNIX way of setting up GPG. If you're on Windows look elsewhere for now, however, the basic principle is the same.
+
+Fire up a terminal and install gpg if you don't have it installed yet. Use your package manager (preferred) or compile it from source.
+
+Then run this command:
+
+```
+gpg --full-generate-key
+```
+> I recommend going with the defaults. If you're on a modern system, Elliptic Curve Cryptography (ECC), particularly the ED25519 algorithm, should be the default.
+
+That's it you're done. If you're interested in reading more check out the [SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and [GPG](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key) Documentation on GitHub.
+
+If you want even more reading, I recommend starting with the [master article on authentication](https://docs.github.com/en/authentication).
 
 [Next &rarr;](/posts/git/creating-your-first-git-repository/)
