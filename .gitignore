@@ -4,3 +4,4 @@ node_modules/
 # Ignore build artifacts
 public/
 resources/
+.hugo_build.lock
