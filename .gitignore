@@ -5,3 +5,7 @@ node_modules/
 public/
 resources/
 .hugo_build.lock
+
+# Ignore OS specific artifacts
+
+.DS_Store
