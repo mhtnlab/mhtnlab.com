@@ -14,12 +14,6 @@ I started MHTN lab on the 5th of June, 2024 as a creative outlet for my study, a
 
 P.S. Shout out to Dennis Devey of [Roppers](https://www.roppers.org)! MHTN Lab would have not been possible without him or Roppers.
 
-### Contact
-
-You can reach out to me via [session.](https://getsession.org/download)
-
-![Session](../images/im-session.jpg)
-
 ### Donate
 
 Consider supporting our mission. Every little bit helps.
