@@ -4,7 +4,7 @@ date: 2025-10-04T02:03:10+05:30
 lastmod: 2025-10-04T17:58:00+05:30
 slug: '/confidentiality-integrity-and-authenticity/'
 description: 'The first part in my new series: security bytes'
-image: 'images/default-placeholder.png'
+image: 'images/cia-glitch-matrix.jpg'
 caption: ''
 categories: [security, bytes]
 tags: [CIA-triad, CIANA, infosec, cyber-security]
@@ -17,7 +17,7 @@ Whether you're new to InfoSec or you're a professional, you've definitely come a
 
 > The CIA? Triads? What are you even talking about?
 
-To borrow a line from my mentor:"Na, not that CIA."
+To borrow a line from my mentor: "Na, not that CIA."
 
 The CIA triad make up the pillars of InfoSec. Most, if not all, security processes are designed around them. If you're a student looking to get into InfoSec, I'd start here. Preserving the CIA triad the foundational basis for InfoSec.
 
