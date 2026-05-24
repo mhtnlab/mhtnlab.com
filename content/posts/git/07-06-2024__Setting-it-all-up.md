@@ -123,7 +123,7 @@ Now that you've set up your access token with SSH, it's finally time to go pro. 
 
 ### GPG Keys
 
-GPG also helps maintain the integrity of your code. I have a blog post about the [CIA triad](), if you're interested in learning more about confidentiality, integrity, and avavailabilty in an InfoSec/Cyber Security context, but that's enough of that - let's geet back to helping you set up your first GPG Key.
+GPG also helps maintain the integrity of your code. I have a blog post about the [CIA triad](/posts/security/bytes/confidentiality-integrity-and-authenticity/), if you're interested in learning more about confidentiality, integrity, and avavailabilty in an InfoSec/Cyber Security context, but that's enough of that - let's geet back to helping you set up your first GPG Key.
 
 At this moment in time, I'll only be supporting the UNIX way of setting up GPG. If you're on Windows look elsewhere for now, however, the basic principle is the same.
 
