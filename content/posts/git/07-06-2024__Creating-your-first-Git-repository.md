@@ -35,4 +35,51 @@ git init
 
 You've created your first repo! Now get in there and start hacking.
 
+For demonstration, we'll create a simple Hello World program in C.
+
+```
+touch hello.c
+```
+
+Here's what your program will look like:
+
+![](../../../images/hello.c.png)
+
+> Note: run your file after compiling the program. 
+
+```
+gcc hello.c -o hello.out
+./hello.out
+```
+
+Now that you've tested the program and it works, printing "Hello, World!" to the console, you'll want to store your code somewhere safe - your remote repository.
+
+You already have a local repo, now you'll want to create a remote repo on GitHub or other source code hosting platforms. We'll be using GitHub in this example.
+
+To create your first repo, click your profile picture > Repositories > click the green "new" button.
+
+![](../../../images/new-repo.png)
+
+Then you'll be asked to name your new repository.
+
+![](../../../images/creating-your-first-remote-repo.png)
+
+After creating your remote code repository on GitHub, you'll want to upload or "push" your code to it. Ignore all the configurations for now, leave them set to the defaults.
+
+Now get back into your terminal and add the remote (origin).
+
+```
+echo "# hello.c" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:<yourGitHubUsername>/hello.c.git
+git push -u origin main
+```
+
+You just made your first commit. Congrats on becoming a dev.
+
+Next up: using git for production ready/professional environments, like the workplace.
+
 [Next &rarr;](#)
