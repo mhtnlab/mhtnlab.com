@@ -136,7 +136,104 @@ gpg --full-generate-key
 ```
 > I recommend going with the defaults. If you're on a modern system, Elliptic Curve Cryptography (ECC), particularly the ED25519 algorithm, should be the default.
 
-That's it you're done. If you're interested in reading more check out the [SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and [GPG](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key) Documentation on GitHub.
+![](../../../images/gpg-select-key-type.png)
+
+After you've selected the type of key you want, you'll be prompted to select an algorithm. I recommend the default (hit enter) or type in 1 to select ed25519 (default algo).
+
+![](../../../images/gpg-select-algo-set-expire.png)
+
+You should then be prompted to set an expiry date for your key. Notice I've set my expiry for 30 days.
+
+You can select other measures of time too.
+
+```
+30 - sets expiry for 30 days
+4w - sets expiry for 4 weeks
+1m - sets expiry for 1 month
+1y - sets expiry for 1 year
+0 for no expiry
+```
+
+> Note: It is best practice to rotate your keys every 30 days (Some say 28 days, yeah I know - shocker). Just basic OpSec. 
+
+Once you've confirmed expiry/non-expiry, you should see something like this:
+
+![](../../../images/gpg-identify-your-key.png)
+
+Provide your name/alias your want to use. Use a cool alias or a hacker name like 0xDEADE7E, becuase you're an elite (1337) haxxor/ hackerman.
+
+You will then be prompted to set up a passphrase. Use a strong passphrase/password - which ever you prefer. Remember it or save it to a password manager. 
+
+> I recommend using local only password managers, because the cloud is just someone else's computer.
+
+All jokes aside, whichever router you go, whether local only, self-hosted or cloud, your password manager should serve you well. All password manager encrypt the data, so in reality you use strong passwords, you should be fine.
+
+Now you'll want to add your GPG Key to your remote git account. You're likely using GitHub. Login to your GitHub. Then follow these steps.
+
+By now you should have already set up ssh and gpg locally. Now you need to provide your public ssh and gpg keys to github.
+
+![](../../../images/add-gpg-and-ssh-keys.png)
+
+> Note that you can also set up your SSH Keys here. Let's do that first.
+
+`Click your profile icon > Click Settings > Click SSH and GPG Keys` 
+
+> You'll be using your SSH Key to access your repositories and your GPG key will be used to verify your identity/integrity of your code. You'll sign off on each of your commits to GitHub with your GPG Key. Fret not, the process is automatic. You just want to set this up first.
+
+![](../../../images/new-ssh-key.png)
+
+Now fill out the fields to add your new ssh key. You'll need to read the contents of your public ssh key. Should look something like `keyname.pub`. View the contents using cat, less, more or by otherwise opening the file. Personally, heres how I do it:
+
+On macOS
+```
+cat ~/.ssh/<yourkeyname>.pub | pbcopy
+```
+
+On Linux Systems
+```
+cat ~/.ssh/<yourkeyname>.pub | xclip -selection clipboard
+```
+
+There are, of course, alternatives to pbcopy on macOS (but pbcopy just works) and xclip on linux systems. If you're on Linux, use what works for you. You may need to install it first if it doesn't already come with your preferred linux out of the box.
+
+Back to adding your SSH key to GitHub. Now just paste the contents and give your key a title.
+
+![](../../../images/add-ssh-key.png)
+
+Now let's get your GPG Key(s) set up.
+
+![](../../../images/new-gpg-key.png)
+
+Similarly, list your gpg keys.
+
+```
+gpg --list-public-keys
+```
+
+![](../../../images/list-gpg-keys.png)
+
+Now copy your public gpg key:
+
+```
+gpg --armor --export <enter your public key here> | pbcopy
+```
+
+Copy it over to GitHub:
+
+![](../../../images/add-gpg-key.png)
+
+The key you see in the image above is a dummy key, it won't do anything, it shouldn't work either. That's why I'm comfortable showing you the full key.
+
+Last, update your gitconfig, or as I like to call it congi. 
+
+> I sometimes accidently type this out instead of config, pretty sure a may of you relate. No? Just me?
+
+```
+nvim ~/.gitconfig
+```
+![](../../../images/gitconfig.png)
+
+Congrats, you've set up your first GPG key. If you're interested in reading more check out the [SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and [GPG](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key) Documentation on GitHub.
 
 If you want even more reading, I recommend starting with the [master article on authentication](https://docs.github.com/en/authentication).
 
