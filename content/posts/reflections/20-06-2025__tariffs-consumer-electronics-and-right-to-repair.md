@@ -4,7 +4,7 @@ date: 2025-06-20T13:53:07+05:30
 lastmod: 2025-06-20T13:53:07+05:30
 slug: '/tariffs-consumer-electronics-and-right-to-repair/'
 description: 'This is an academic article I took the time to research for college'
-image: ''
+image: 'images/whitehouselogo.jpg'
 caption: ''
 categories: 
   - reflections
