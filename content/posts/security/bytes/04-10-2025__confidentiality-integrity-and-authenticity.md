@@ -53,6 +53,8 @@ Most software distributors (distribution centers) or app stores, if you prefer, 
 
 ** *Consider fighting back against digital surveillance by switching to software that respects your freedoms.*
 
+>Ah, youthful naivete... I now use a MacBook. The build quality on this device is amazing and it just works - no nonsense. I'd love to see an open solution like this someday.
+
 #### Another example: 
 Maintaining the integrity of your communications. When sending out an email, using PGP ensures that your recipient receives your original text. It preserves the integrity of your communication. An added bonus? It also preserves your privacy (confidentiality). How does this work? Math. Maybe I'll do a write-up on this later.
 
