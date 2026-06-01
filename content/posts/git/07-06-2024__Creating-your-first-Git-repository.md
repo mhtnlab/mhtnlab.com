@@ -82,4 +82,4 @@ You just made your first commit. Congrats on becoming a dev.
 
 Next up: using git for production ready/professional environments, like the workplace.
 
-[Next &rarr;](#)
+[Next &rarr;](/posts/git/production-ready-git/)
